@@ -2492,7 +2492,7 @@ case `${prefix}goodgirlserti`:
 
 				////////if (isBanned) return reply('Maaf kamu sudah terbenned!')
 				
-				if (args.length < 1) return reply('The text is Mana Cuy?\n*Contoh ${prefix}goodgirlserti ${pushname}')
+				if (args.length < 1) return reply('where is the text?\n*Contoh ${prefix}goodgirlserti ${pushname}')
 				reply(ind.wait())
 				ct = body.slice(14)
 				dapuhy = await getBuffer('https://onlydevcity.xyz/GoodGirlSerti/img.php?nama=${ct}')
@@ -2505,7 +2505,7 @@ case `${prefix}goodgirlserti`:
 
 				////////if (isBanned) return reply('Maaf kamu sudah terbenned!')
 				
-				if (args.length < 1) return reply('The text is Mana Cuy?\n*Contoh ${prefix}goodboyserti SELF-AGUZ')
+				if (args.length < 1) return reply('where is the text?\n*Contoh ${prefix}goodboyserti SELF-AGUZ')
 				reply(ind.wait())
 				ct = body.slice(13)
 				dapuhy = await getBuffer('https://onlydevcity.xyz/GoodBoySerti/img.php?nama=${ct}')
@@ -2518,7 +2518,7 @@ case `${prefix}goodgirlserti`:
 
 				////////if (isBanned) return reply('Maaf kamu sudah terbenned!')
 				
-				if (args.length < 1) return reply('The text is Mana Cuy?\n*Contoh ${prefix}editodberkelasserti ${pushname}')
+				if (args.length < 1) return reply('where is the text?\n*Contoh ${prefix}editodberkelasserti ${pushname}')
 				reply(ind.wait())
 				ct = body.slice(20)
 				dapuhy = await getBuffer('https://onlydevcity.xyz/EditorBerkelasSerti/img.php?nama=${ct}')
@@ -2531,7 +2531,7 @@ case `${prefix}goodgirlserti`:
 
 				////////if (isBanned) return reply('Maaf kamu sudah terbenned!')
 				
-				if (args.length < 1) return reply('The text is Mana Cuy?\n*Contoh ${prefix}goodlookingserti HINATA')
+				if (args.length < 1) return reply('where is the text?\n*Contoh ${prefix}goodlookingserti HINATA')
 				reply(ind.wait())
 				ct = body.slice(17)
 				dapuhy = await getBuffer('https://onlydevcity.xyz/GoodLookingSerti/img.php?nama=${ct}')
@@ -2544,7 +2544,7 @@ case `${prefix}goodgirlserti`:
 
 				////////if (isBanned) return reply('Maaf kamu sudah terbenned!')
 				
-				if (args.length < 1) return reply('The text is Mana Cuy?\n*Contoh ${prefix}fucekboyserti HINATA')
+				if (args.length < 1) return reply('where is the text?\n*Contoh ${prefix}fucekboyserti HINATA')
 				reply(ind.wait())
 				ct = body.slice(14)
 				dapuhy = await getBuffer('https://onlydevcity.xyz/FucekBoySerti/img.php?nama=${ct}')
@@ -2557,7 +2557,7 @@ case `${prefix}goodgirlserti`:
 
 				////////if (isBanned) return reply('Maaf kamu sudah terbenned!')
 				
-				if (args.length < 1) return reply('The text is Mana Cuy?\n*Contoh ${prefix}fucekboyserti ${pushname}')
+				if (args.length < 1) return reply('where is the text?\n*Contoh ${prefix}fucekboyserti ${pushname}')
 				reply(ind.wait())
 				ct = body.slice(11)
 				dapuhy = await getBuffer('https://onlydevcity.xyz/JametSerti/img.php?nama=${ct}')
@@ -2570,7 +2570,7 @@ case `${prefix}goodgirlserti`:
 
 				////////if (isBanned) return reply('Maaf kamu sudah terbenned!')
 				
-				if (args.length < 1) return reply('The text is Mana Cuy?\n*Contoh ${prefix}youtuberserti HINATA')
+				if (args.length < 1) return reply('where is the text?\n*Contoh ${prefix}youtuberserti HINATA')
 				reply(ind.wait())
 				ct = body.slice(14)
 				dapuhy = await getBuffer('https://onlydevcity.xyz/YoutuberSerti/img.php?nama=${ct}')
@@ -2583,7 +2583,7 @@ case `${prefix}goodgirlserti`:
 
 				////////if (isBanned) return reply('Maaf kamu sudah terbenned!')
 				
-				if (args.length < 1) return reply('The text is Mana Cuy?\n*Contoh ${prefix}fftourserti HINATA')
+				if (args.length < 1) return reply('where is the text?\n*Contoh ${prefix}fftourserti HINATA')
 				reply(ind.wait())
 				ct = body.slice(12)
 				dapuhy = await getBuffer('https://onlydevcity.xyz/FFSerti/img.php?nama=${ct}')
@@ -2596,7 +2596,7 @@ case `${prefix}goodgirlserti`:
 
 				////////if (isBanned) return reply('Maaf kamu sudah terbenned!')
 				
-				if (args.length < 1) return reply('The text is Mana Cuy?\n*Contoh ${prefix}fftourserti2 HINATA')
+				if (args.length < 1) return reply('where is the text?\n*Contoh ${prefix}fftourserti2 HINATA')
 				reply(ind.wait())
 				ct = body.slice(13)
 				dapuhy = await getBuffer('https://onlydevcity.xyz/FFSerti2/img.php?nama=${ct}')
@@ -2610,7 +2610,7 @@ case `${prefix}goodgirlserti`:
 
 				////////if (isBanned) return reply('Maaf kamu sudah terbenned!')
 				
-				if (args.length < 1) return reply('Textnya Mana Cuy?\n*Contoh ${prefix}fftourserti3 HINATA')
+				if (args.length < 1) return reply('where is the text?\n*Contoh ${prefix}fftourserti3 HINATA')
 				reply(ind.wait())
 				ct = body.slice(13)
 				dapuhy = await getBuffer('https://onlydevcity.xyz/FFSerti3/img.php?nama=${ct}')
@@ -2623,7 +2623,7 @@ case `${prefix}goodgirlserti`:
 
 				////////if (isBanned) return reply('Maaf kamu sudah terbenned!')
 				
-				if (args.length < 1) return reply('The text is Mana Cuy?\n*Contoh ${prefix}fftourserti4 HINATA')
+				if (args.length < 1) return reply('where is the text?\n*Contoh ${prefix}fftourserti4 HINATA')
 				reply(ind.wait())
 				ct = body.slice(13)
 				dapuhy = await getBuffer('https://onlydevcity.xyz/FFSerti4/img.php?nama=${ct}')
@@ -2636,7 +2636,7 @@ case `${prefix}goodgirlserti`:
 
 				////////if (isBanned) return reply('Maaf kamu sudah terbenned!')
 				
-				if (args.length < 1) return reply('The text is Mana Cuy?\n*Contoh ${prefix}fftourserti5 HINATA')
+				if (args.length < 1) return reply('where is the text?\n*Contoh ${prefix}fftourserti5 HINATA')
 				reply(ind.wait())
 				ct = body.slice(13)
 				dapuhy = await getBuffer('https://onlydevcity.xyz/FFSerti5/img.php?nama=${ct}')
@@ -2649,11 +2649,11 @@ case `${prefix}goodgirlserti`:
 
 				////////if (isBanned) return reply('Maaf kamu sudah terbenned!')
 				
-				if (args.length < 1) return reply('Textnya Mana Cuy?\n*Contoh ${prefix}mltourserti SELF-AGUZ')
+				if (args.length < 1) return reply('where is the text?\n*Contoh ${prefix}mltourserti HINATA')
 				reply(ind.wait())
 				ct = body.slice(12)
 				dapuhy = await getBuffer('https://onlydevcity.xyz/MLTourSerti/img.php?nama=${ct}')
-				hexa.sendMessage(from, dapuhy, image, { quoted: freply, caption: 'Nih Jangan Lupa Subscribe SELF-AGUZ' })
+				hexa.sendMessage(from, dapuhy, image, { quoted: freply, caption: 'well....' })
 				break
 				case `${prefix}mltourserti2`: 				
 				// ⚠️ Case by SELF-AGUZ
@@ -2662,11 +2662,11 @@ case `${prefix}goodgirlserti`:
 
 				////////if (isBanned) return reply('Maaf kamu sudah terbenned!')
 				
-				if (args.length < 1) return reply('Textnya Mana Cuy?\n*Contoh ${prefix}mltourserti2 SELF-AGUZ')
+				if (args.length < 1) return reply('where is the text?\n*Contoh ${prefix}mltourserti2 HINATA')
 				reply(ind.wait())
 				ct = body.slice(13)
 				dapuhy = await getBuffer('https://onlydevcity.xyz/MLTourSerti2/img.php?nama=${ct}')
-				hexa.sendMessage(from, dapuhy, image, { quoted: freply, caption: 'Nih Jangan Lupa Subscribe SELF-AGUZ' })
+				hexa.sendMessage(from, dapuhy, image, { quoted: freply, caption: 'well.....' })
 				break
 				case `${prefix}mltourserti3`: 				
 				// ⚠️ Case by SELF-AGUZ
@@ -2675,11 +2675,11 @@ case `${prefix}goodgirlserti`:
 
 				////////if (isBanned) return reply('Maaf kamu sudah terbenned!')
 				
-				if (args.length < 1) return reply('Textnya Mana Cuy?\n*Contoh ${prefix}mltourserti3 SELF-AGUZ')
+				if (args.length < 1) return reply('where is the text?\n*Contoh ${prefix}mltourserti3 HINATA')
 				reply(ind.wait())
 				ct = body.slice(13)
 				dapuhy = await getBuffer('https://onlydevcity.xyz/MLTourSerti3/img.php?nama=${ct}')
-				hexa.sendMessage(from, dapuhy, image, { quoted: freply, caption: 'Nih Jangan Lupa Subscribe SELF-AGUZ' })
+				hexa.sendMessage(from, dapuhy, image, { quoted: freply, caption: 'well....' })
 				break
 				case `${prefix}mltourserti4`: 				
 				// ⚠️ Case by SELF-AGUZ
@@ -2688,11 +2688,11 @@ case `${prefix}goodgirlserti`:
 
 				////////if (isBanned) return reply('Maaf kamu sudah terbenned!')
 				
-				if (args.length < 1) return reply('Textnya Mana Cuy?\n*Contoh ${prefix}mltourserti4 SELF-AGUZ')
+				if (args.length < 1) return reply('where is the text?\n*Contoh ${prefix}mltourserti4 HINATA')
 				reply(ind.wait())
 				ct = body.slice(13)
 				dapuhy = await getBuffer('https://onlydevcity.xyz/MLTourSerti4/img.php?nama=${ct}')
-				hexa.sendMessage(from, dapuhy, image, { quoted: freply, caption: 'Nih Jangan Lupa Subscribe SELF-AGUZ' })
+				hexa.sendMessage(from, dapuhy, image, { quoted: freply, caption: 'well....' })
 				break
 				case `${prefix}mltourserti5`: 				
 				// ⚠️ Case by SELF-AGUZ
@@ -2701,11 +2701,11 @@ case `${prefix}goodgirlserti`:
 
 				////////if (isBanned) return reply('Maaf kamu sudah terbenned!')
 				
-				if (args.length < 1) return reply('Textnya Mana Cuy?\n*Contoh ${prefix}mltourserti5 SELF-AGUZ')
+				if (args.length < 1) return reply('where is the text?\n*Contoh ${prefix}mltourserti5 HINATA')
 				reply(ind.wait())
 				ct = body.slice(13)
 				dapuhy = await getBuffer('https://onlydevcity.xyz/MLTourSerti5/img.php?nama=${ct}')
-				hexa.sendMessage(from, dapuhy, image, { quoted: freply, caption: 'Nih Jangan Lupa Subscribe SELF-AGUZ' })
+				hexa.sendMessage(from, dapuhy, image, { quoted: freply, caption: 'well...' })
 				break
 				case `${prefix}pubgtourserti`: 				
 				// ⚠️ Case by SELF-AGUZ
@@ -2714,11 +2714,11 @@ case `${prefix}goodgirlserti`:
 
 				////////if (isBanned) return reply('Maaf kamu sudah terbenned!')
 				
-				if (args.length < 1) return reply('Textnya Mana Cuy?\n*Contoh ${prefix}pubgtourserti SELF-AGUZ')
+				if (args.length < 1) return reply('where is the text?\n*Contoh ${prefix}pubgtourserti HINATA')
 				reply(ind.wait())
 				ct = body.slice(14)
 				dapuhy = await getBuffer('https://onlydevcity.xyz/PubgTourSerti/img.php?nama=${ct}')
-				hexa.sendMessage(from, dapuhy, image, { quoted: freply, caption: 'Nih Jangan Lupa Subscribe SELF-AGUZ' })
+				hexa.sendMessage(from, dapuhy, image, { quoted: freply, caption: 'well....' })
 				break
 				case `${prefix}pubgtourserti2`: 				
 				// ⚠️ Case by SELF-AGUZ
@@ -2727,11 +2727,11 @@ case `${prefix}goodgirlserti`:
 
 				////////if (isBanned) return reply('Maaf kamu sudah terbenned!')
 				
-				if (args.length < 1) return reply('Textnya Mana Cuy?\n*Contoh ${prefix}pubgtourserti2 SELF-AGUZ')
+				if (args.length < 1) return reply('where is the text?\n*Contoh ${prefix}pubgtourserti2 HINATA')
 				reply(ind.wait())
 				ct = body.slice(15)
 				dapuhy = await getBuffer('https://onlydevcity.xyz/PubgTourSerti2/img.php?nama=${ct}')
-				hexa.sendMessage(from, dapuhy, image, { quoted: freply, caption: 'Nih Jangan Lupa Subscribe SELF-AGUZ' })
+				hexa.sendMessage(from, dapuhy, image, { quoted: freply, caption: 'well.....' })
 				break
 				case `${prefix}pubgtourserti3`: 				
 				// ⚠️ Case by SELF-AGUZ
@@ -2740,11 +2740,11 @@ case `${prefix}goodgirlserti`:
 
 				////////if (isBanned) return reply('Maaf kamu sudah terbenned!')
 				
-				if (args.length < 1) return reply('Textnya Mana Cuy?\n*Contoh ${prefix}pubgtourserti3 SELF-AGUZ')
+				if (args.length < 1) return reply('where is the text?\n*Contoh ${prefix}pubgtourserti3 HINATA')
 				reply(ind.wait())
 				ct = body.slice(15)
 				dapuhy = await getBuffer('https://onlydevcity.xyz/PubgTourSerti3/img.php?nama=${ct}')
-				hexa.sendMessage(from, dapuhy, image, { quoted: freply, caption: 'Nih Jangan Lupa Subscribe SELF-AGUZ' })
+				hexa.sendMessage(from, dapuhy, image, { quoted: freply, caption: 'well....' })
 				break
 				case `${prefix}pubgtourserti4`: 				
 				// ⚠️ Case by SELF-AGUZ
@@ -2753,11 +2753,11 @@ case `${prefix}goodgirlserti`:
 
 				////////if (isBanned) return reply('Maaf kamu sudah terbenned!')
 				
-				if (args.length < 1) return reply('Textnya Mana Cuy?\n*Contoh ${prefix}pubgtourserti4 SELF-AGUZ')
+				if (args.length < 1) return reply('where is the text?\n*Contoh ${prefix}pubgtourserti4 HINATA')
 				reply(ind.wait())
 				ct = body.slice(15)
 				dapuhy = await getBuffer('https://onlydevcity.xyz/PubgTourSerti4/img.php?nama=${ct}')
-				hexa.sendMessage(from, dapuhy, image, { quoted: freply, caption: 'Nih Jangan Lupa Subscribe SELF-AGUZ' })
+				hexa.sendMessage(from, dapuhy, image, { quoted: freply, caption: 'well.....' })
 				break
 				case `${prefix}pubgtourserti5`: 				
 				// ⚠️ Case by SELF-AGUZ
@@ -2766,11 +2766,11 @@ case `${prefix}goodgirlserti`:
 
 				////////if (isBanned) return reply('Maaf kamu sudah terbenned!')
 				
-				if (args.length < 1) return reply('Textnya Mana Cuy?\n*Contoh ${prefix}pubgtourserti5 SELF-AGUZ')
+				if (args.length < 1) return reply('where is the text?\n*Contoh ${prefix}pubgtourserti5 HINATA')
 				reply(ind.wait())
 				ct = body.slice(15)
 				dapuhy = await getBuffer('https://onlydevcity.xyz/PubgTourSerti5/img.php?nama=${ct}')
-				hexa.sendMessage(from, dapuhy, image, { quoted: freply, caption: 'Nih Jangan Lupa Subscribe SELF-AGUZ' })
+				hexa.sendMessage(from, dapuhy, image, { quoted: freply, caption: 'well.......' })
 				break
 
 
@@ -2859,8 +2859,8 @@ case `${prefix}brainly`:
                     brien = body.slice(9)
 					brainly(`${brien}`).then(res => {
 					teks = '❉───────────❉\n'
-					for (let Y of res.data) {
-						teks += `\n*「 _BRAINLY_ 」*\n\n*➸ Pertanyaan:* ${Y.pertanyaan}\n\n*➸ Jawaban:* ${Y.jawaban[0].text}\n❉───────────❉\n`
+					for (let Y of res.data) {Answer
+						teks += `\n*「 _BRAINLY_ 」*\n\n*➸ Question:* ${Y.pertanyaan}\n\n*➸ Answer:* ${Y.jawaban[0].text}\n❉───────────❉\n`
 					}
 					hexa.sendMessage(from, teks, text, {quoted: freply, detectLinks: false})
                         console.log(res)
@@ -3253,9 +3253,9 @@ case `${prefix}slowmo`:
 					
 				////if (isBanned) return reply('Maaf kamu sudah terbenned!')
 					bisakah = body.slice(1)
-					const bisa =['Bisa','Tidak Bisa','Coba Ulangi']
+					const bisa =['Can','Can not','Try Repeat']
 					const keh = bisa[Math.floor(Math.random() * bisa.length)]
-					hexa.sendMessage(from, 'Pertanyaan : *'+bisakah+'*\n\nJawaban : '+ keh, text, { quoted: freply })
+					hexa.sendMessage(from, 'Question : *'+bisakah+'*\n\nAnswer : '+ keh, text, { quoted: freply })
 					
 					break
 		            case `${prefix}kapankah`:
@@ -3268,9 +3268,9 @@ case `${prefix}slowmo`:
 					
 				////if (isBanned) return reply('Maaf kamu sudah terbenned!')
 					kapankah = body.slice(1)
-					const kapan =['Besok','Lusa','1 Hari Lagi','2 Hari Lagi','3 Hari Lagi','4 Hari Lagi','5 Hari Lagi','6 Hari Lagi','1 Bulan Lagi','2 Bulan Lagi','3 Bulan Lagi','4 Bulan Lagi','5 Bulan Lagi','6 Bulan Lagi','7 Bulan Lagi','8 Bulan Lagi','9 Bulan Lagi','10 Bulan Lagi','11 Bulan Lagi','1 Tahun lagi','2 Tahun lagi','3 Tahun lag0i','4 Tahun lagi','5 Tahun lagi','6 Tahun lagi','7 Tahun lagi','8 Tahun lagi','9 Tahun lagi','10 Tahun lagi']
+					const kapan =['Tomorrow', 'The Day after tomorrow', '1 More Day', '2 More Days', '3 More Days', '4 More Days', '5 More Days', '6 More Days', 'One More Month', '2 Months Again', '3 Months Again', '4 Months Again', '5 Months Again', '6 Months Again', '7 Months Again', '8 Months Again', '9 Months Again', '10 More Months ',' 11 Months Again ',' 1 Year Again ',' 2 Years Again ',' 3 Years Again ',' 4 Years Again ',' 5 Years Again ',' 6 More Years ',' 7 Years Again ',' 8 more years ',' 9 more years ',' 10 more years']
 					const koh = kapan[Math.floor(Math.random() * kapan.length)]
-					hexa.sendMessage(from, 'Pertanyaan : *'+kapankah+'*\n\nJawaban : '+ koh, text, { quoted: freply })
+					hexa.sendMessage(from, 'Question : *'+kapankah+'*\n\nAnswer : '+ koh, text, { quoted: freply })
 					
 					break
 		            case `${prefix}apakah`:
@@ -3283,9 +3283,9 @@ case `${prefix}slowmo`:
 					
 				////if (isBanned) return reply('Maaf kamu sudah terbenned!')
 					apakah = body.slice(1)
-					const apa =['Iya','Tidak','Bisa Jadi','Coba Ulangi']
+					const apa =['Yes', 'No', 'Could Be', 'Try Repeat']
 					const kah = apa[Math.floor(Math.random() * apa.length)]
-					hexa.sendMessage(from, 'Pertanyaan : *'+apakah+'*\n\nJawaban : '+ kah, text, { quoted: freply })
+					hexa.sendMessage(from, 'Question: *'+apakah+'*\n\nAnswer : '+ kah, text, { quoted: freply })
 					
 					break
 		            case `${prefix}bagaimanakah`:
@@ -3298,9 +3298,9 @@ case `${prefix}slowmo`:
 					
 				////if (isBanned) return reply('Maaf kamu sudah terbenned!')
 					bagaimanakah = body.slice(1)
-					const bagai =['Kita Kenal?','Nanya Terus deh','Tidak Tahu','Coba Ulangi','Cari Aja Sendiri','Kurang Tahu','Mana Saya Tahu, Saya kan ikan']
+					const bagai =['Do We Know?', 'Just Ask', 'Dont Know', 'Try Repeat', 'Just Find Yourself', 'Dont Know', 'I Dont Know, Im a Fish']
 					const mana = bagai[Math.floor(Math.random() * bagai.length)]
-					hexa.sendMessage(from, 'Pertanyaan : *'+bagaimanakah+'*\n\nJawaban : '+ mana, text, { quoted: freply })
+					hexa.sendMessage(from, 'Question : *'+bagaimanakah+'*\n\nAnswer : '+ mana, text, { quoted: freply })
 					
 					break
 		            case `${prefix}rate`:
@@ -3315,7 +3315,7 @@ case `${prefix}slowmo`:
 					rate = body.slice(1)
 					const ra =['1','2','3','4','5','6','7','8','9','10','11','12','13','14','15','16','17','18','19','20','21','22','23','24','25','26','27','28','29','30','31','32','33','34','35','36','37','38','39','40','41','42','43','44','45','46','47','48','49','50','51','52','53','54','55','56','57','58','59','60','61','62','63','64','65','66','67','68','69','70','71','72','73','74','75','76','77','78','79','80','81','82','83','84','85','86','87','88','89','90','91','92','93','94','95','96','97','98','99','100']
 					const te = ra[Math.floor(Math.random() * ra.length)]
-					hexa.sendMessage(from, 'Pertanyaan : *'+rate+'*\n\nJawaban : '+ te+'%', text, { quoted: freply })
+					hexa.sendMessage(from, 'Question : *'+rate+'*\n\nAnswer : '+ te+'%', text, { quoted: freply })
 					
 					break
                     case `${prefix}sangecek`:
@@ -3330,7 +3330,7 @@ case `${prefix}slowmo`:
 					sange = body.slice(1)
 					const sang =['1','2','3','4','5','6','7','8','9','10','11','12','13','14','15','16','17','18','19','20','21','22','23','24','25','26','27','28','29','30','31','32','33','34','35','36','37','38','39','40','41','42','43','44','45','46','47','48','49','50','51','52','53','54','55','56','57','58','59','60','61','62','63','64','65','66','67','68','69','70','71','72','73','74','75','76','77','78','79','80','81','82','83','84','85','86','87','88','89','90','91','92','93','94','95','96','97','98','99','100']
 					const nge = sang[Math.floor(Math.random() * sang.length)]
-					hexa.sendMessage(from, 'Pertanyaan : *'+sange+'*\n\nJawaban : '+ nge+'%', text, { quoted: freply })
+					hexa.sendMessage(from, 'Question : *'+sange+'*\n\nAnswer : '+ nge+'%', text, { quoted: freply })
 					
 					break
                     case `${prefix}gaycek`:
@@ -3345,7 +3345,7 @@ case `${prefix}slowmo`:
 					gayy = body.slice(1)
 					const gay =['1','2','3','4','5','6','7','8','9','10','11','12','13','14','15','16','17','18','19','20','21','22','23','24','25','26','27','28','29','30','31','32','33','34','35','36','37','38','39','40','41','42','43','44','45','46','47','48','49','50','51','52','53','54','55','56','57','58','59','60','61','62','63','64','65','66','67','68','69','70','71','72','73','74','75','76','77','78','79','80','81','82','83','84','85','86','87','88','89','90','91','92','93','94','95','96','97','98','99','100']
 					const yag = gay[Math.floor(Math.random() * gay.length)]
-					hexa.sendMessage(from, 'Pertanyaan : *'+gayy+'*\n\nJawaban : '+ yag+'%', text, { quoted: freply })
+					hexa.sendMessage(from, 'Question : *'+gayy+'*\n\nAnswer : '+ yag+'%', text, { quoted: freply })
 					
 					break
                     case `${prefix}lesbicek`:
@@ -3360,7 +3360,7 @@ case `${prefix}slowmo`:
 					lesbii = body.slice(1)
 					const lesbi =['1','2','3','4','5','6','7','8','9','10','11','12','13','14','15','16','17','18','19','20','21','22','23','24','25','26','27','28','29','30','31','32','33','34','35','36','37','38','39','40','41','42','43','44','45','46','47','48','49','50','51','52','53','54','55','56','57','58','59','60','61','62','63','64','65','66','67','68','69','70','71','72','73','74','75','76','77','78','79','80','81','82','83','84','85','86','87','88','89','90','91','92','93','94','95','96','97','98','99','100']
 					const bi = lesbi[Math.floor(Math.random() * lesbi.length)]
-					hexa.sendMessage(from, 'Pertanyaan : *'+lesbii+'*\n\nJawaban : '+ bi+'%', text, { quoted: freply })
+					hexa.sendMessage(from, 'Question : *'+lesbii+'*\n\nAnswer : '+ bi+'%', text, { quoted: freply })
 					
 					break
                     case `${prefix}gantengcek`:
@@ -3375,7 +3375,7 @@ case `${prefix}slowmo`:
 					ganteng = body.slice(1)
 					const gan =['1','2','3','4','5','6','7','8','9','10','11','12','13','14','15','16','17','18','19','20','21','22','23','24','25','26','27','28','29','30','31','32','33','34','35','36','37','38','39','40','41','42','43','44','45','46','47','48','49','50','51','52','53','54','55','56','57','58','59','60','61','62','63','64','65','66','67','68','69','70','71','72','73','74','75','76','77','78','79','80','81','82','83','84','85','86','87','88','89','90','91','92','93','94','95','96','97','98','99','100']
 					const teng = gan[Math.floor(Math.random() * gan.length)]
-					hexa.sendMessage(from, 'Pertanyaan : *'+ganteng+'*\n\nJawaban : '+ teng+'%', text, { quoted: freply })
+					hexa.sendMessage(from, 'Question : *'+ganteng+'*\n\nAnswer : '+ teng+'%', text, { quoted: freply })
 					
 					break
 		            case `${prefix}cantikcek`:
@@ -3390,7 +3390,7 @@ case `${prefix}slowmo`:
 					cantik = body.slice(1)
 					const can =['1','2','3','4','5','6','7','8','9','10','11','12','13','14','15','16','17','18','19','20','21','22','23','24','25','26','27','28','29','30','31','32','33','34','35','36','37','38','39','40','41','42','43','44','45','46','47','48','49','50','51','52','53','54','55','56','57','58','59','60','61','62','63','64','65','66','67','68','69','70','71','72','73','74','75','76','77','78','79','80','81','82','83','84','85','86','87','88','89','90','91','92','93','94','95','96','97','98','99','100']
 					const tik = can[Math.floor(Math.random() * can.length)]
-					hexa.sendMessage(from, 'Pertanyaan : *'+cantik+'*\n\nJawaban : '+ tik+'%', text, { quoted: freply })
+					hexa.sendMessage(from, 'Question : *'+cantik+'*\n\nAnswer : '+ tik+'%', text, { quoted: freply })
 					
 					break
 		            case `${prefix}watak`:
@@ -3403,9 +3403,9 @@ case `${prefix}slowmo`:
 					
 				////if (isBanned) return reply('Maaf kamu sudah terbenned!')
 					watak = body.slice(1)
-					const wa =['Penyayang','Pemurah','Pemarah','Pemaaf','Penurut','Baik','Baperan','Baik Hati','penyabar','UwU','top deh, pokoknya','Suka Membantu']
+					const wa =['Loving', 'Gracious', 'Grumpy', 'Forgiving', 'Submissive', 'Kind', 'Baper', 'Kind', 'Patient','UwU','top' , 'anyway', 'Like Helping']
 					const tak = wa[Math.floor(Math.random() * wa.length)]
-					hexa.sendMessage(from, 'Pertanyaan : *'+watak+'*\n\nJawaban : '+ tak, text, { quoted: freply })
+					hexa.sendMessage(from, 'Question : *'+watak+'*\n\nAnswer : '+ tak, text, { quoted: freply })
 					
 				        break
 		         case `${prefix}hobby`:
@@ -3418,9 +3418,9 @@ case `${prefix}slowmo`:
 					
 				////if (isBanned) return reply('Maaf kamu sudah terbenned!')
 					hobby = body.slice(1)
-					const hob =['Memasak','Membantu Atok','Mabar','Nobar','Sosmedtan','Membantu Orang lain','Nonton Anime','Nonton Drakor','Naik Motor','Nyanyi','Menari','Bertumbuk','Menggambar','Foto fotoan Ga jelas','Maen Game','Berbicara Sendiri']
+					const hob =['Cooking', 'Helping Atok', 'Mabar', 'Nobar', 'Sosmedtan', 'Helping Others', 'Watching Anime', 'Watching Drakor', 'Riding a Motorcycle', 'Singing', 'Dancing', 'Pounding', 'Drawing', 'Unclear photo shoot', 'Play Game', 'Talking to myself']
 					const by = hob[Math.floor(Math.random() * hob.length)]
-					hexa.sendMessage(from, 'Pertanyaan : *'+hobby+'*\n\nJawaban : '+ by, text, { quoted: freply })
+					hexa.sendMessage(from, 'Question : *'+hobby+'*\n\nAnswer : '+ by, text, { quoted: freply })
 					
 					break
                 case `${prefix}jadian`:
@@ -3437,7 +3437,7 @@ case `${prefix}slowmo`:
 					const koss = groupMembers
 					const akuu = jdii[Math.floor(Math.random() * jdii.length)]
 					const diaa = koss[Math.floor(Math.random() * koss.length)]
-					teks = `Ciee.. yang lagi jadian @${akuu.jid.split('@')[0]} ♥️ @${diaa.jid.split('@')[0]} `
+					teks = `Ciee .. who's going out again @${akuu.jid.split('@')[0]} ♥️ @${diaa.jid.split('@')[0]} `
 					jds.push(akuu.jtext)
 					jds.push(diaa.jtext)
 					mentions(teks, jds, true)
@@ -3457,7 +3457,7 @@ case `${prefix}slowmo`:
 					const kosst = groupMembers
 					const akuut = jdiid[Math.floor(Math.random() * jdiid.length)]
 					const diaat = kosst[Math.floor(Math.random() * kosst.length)]
-					teks = `Yang ngewe kemarin di grub ini adalah @${akuut.jid.split('@')[0]} dan️ @${diaat.jid.split('@')[0]} `
+					teks = `The one who wept yesterday in this group is @${akuut.jid.split('@')[0]} dan️ @${diaat.jid.split('@')[0]} `
 					jds.push(akuut.jtext)
 					jds.push(diaat.jtext)
 					mentions(teks, jds, true)
@@ -3476,7 +3476,7 @@ case `${prefix}slowmo`:
 					const jdiidc = groupMembers
 					const kosstc = groupMembers
 					const akuutc = jdiidc[Math.floor(Math.random() * jdiidc.length)]
-					teks = `Yang terganteng di grub ini adalah @${akuutc.jid.split('@')[0]}`
+					teks = `What is most handsome in this group is @${akuutc.jid.split('@')[0]}`
 					jds.push(akuutc.jtext)
 					mentions(teks, jds, true)
 					
@@ -3494,7 +3494,7 @@ case `${prefix}slowmo`:
 					const jdiidr = groupMembers
 					const kosstr = groupMembers
 					const akuutr = jdiidr[Math.floor(Math.random() * jdiidr.length)]
-					teks = `Yang tercantik di grub ini adalah @${akuutr.jid.split('@')[0]}`
+					teks = `The prettiest in this group is @${akuutr.jid.split('@')[0]}`
 					jds.push(akuutr.jtext)
 					mentions(teks, jds, true)
 					
@@ -3507,16 +3507,16 @@ case `${prefix}slowmo`:
 					anu = await fetchJson('https://dapuhy-apikey.herokuapp.com/api/kuis/caklontong?apikey=dappabotwa', {method: 'get'})
 					caklontong = `*${anu.result.soal}*`
 					setTimeout( () => {
-					aguzbotwa.sendMessage(from, '*➸ Jawaban :* '+anu.result.jawaban+ '\n\n• Penjelasan: *'+ anu.result.deskripsi+'*', text, {quoted: freply}) // ur cods
+					aguzbotwa.sendMessage(from, '*➸ Answer :* '+anu.result.jawaban+ '\n\n• Explanation: *'+ anu.result.deskripsi+'*', text, {quoted: freply}) // ur cods
 					}, 30000) // 1000 = 1s,
 					setTimeout( () => {
-					aguzbotwa.sendMessage(from, '_10 Detik lagi…_', text) // ur cods
+					aguzbotwa.sendMessage(from, '_10 seconds left ... _', text) // ur cods
 					}, 20000) // 1000 = 1s,
 					setTimeout( () => {
-					aguzbotwa.sendMessage(from, '_20 Detik lagi_…', text) // ur cods
+					aguzbotwa.sendMessage(from, '_20 seconds left ... _', text) // ur cods
 					}, 10000) // 1000 = 1s,
 					setTimeout( () => {
-					aguzbotwa.sendMessage(from, '_30 Detik lagi_…', text) // ur cods
+					aguzbotwa.sendMessage(from, '_30 seconds left ... _', text) // ur cods
 					}, 2500) // 1000 = 1s,
 					setTimeout( () => {
 					aguzbotwa.sendMessage(from, caklontong, text, {quoted: freply}) // ur cods
@@ -3532,16 +3532,16 @@ case `${prefix}slowmo`:
 					anu = await fetchJson('https://leyscoders-api.herokuapp.com/api/family100?apikey=ORFVUMC', {method: 'get'})
 					family = `*${anu.result.soal}*`
 					setTimeout( () => {
-					aguzbotwa.sendMessage(from, '*➸ Jawaban :* '+anu.result.jawaban, text, {quoted: freply}) // ur cods
+					aguzbotwa.sendMessage(from, '*➸ Answer:* '+anu.result.jawaban, text, {quoted: freply}) // ur cods
 					}, 30000) // 1000 = 1s,
 					setTimeout( () => {
-					aguzbotwa.sendMessage(from, '_10 Detik lagi…_', text) // ur cods
+					aguzbotwa.sendMessage(from, '_10 seconds left ... _', text) // ur cods
 					}, 20000) // 1000 = 1s,
 					setTimeout( () => {
-					aguzbotwa.sendMessage(from, '_20 Detik lagi_…', text) // ur cods
+					aguzbotwa.sendMessage(from, '_20 seconds left ... _', text) // ur cods
 					}, 10000) // 1000 = 1s,
 					setTimeout( () => {
-					aguzbotwa.sendMessage(from, '_30 Detik lagi_…', text) // ur cods
+					aguzbotwa.sendMessage(from, '_30 seconds left ... _', text) // ur cods
 					}, 2500) // 1000 = 1s,
 					setTimeout( () => {
 					aguzbotwa.sendMessage(from, family, text, {quoted: freply }) // ur cods
@@ -3555,21 +3555,21 @@ case `${prefix}slowmo`:
 
 					anu = await fetchJson('https://dapuhy-apikey.herokuapp.com/api/kuis/tebakgambar?apikey=dappabotwa', {method: 'get'})
 					ngebuff = await getBuffer(anu.result.images)
-					tebak = `➸ Jawaban : *${anu.result.jawaban}*`
+					tebak = `➸ Answer : *${anu.result.jawaban}*`
 					setTimeout( () => {
 					aguzbotwa.sendMessage(from, tebak, text, {quoted: freply})
 					}, 30000) // 1000 = 1s,
 					setTimeout( () => {
-					aguzbotwa.sendMessage(from, '_10 Detik lagi..._', text) // ur cods
+					aguzbotwa.sendMessage(from, '_10 seconds left ... _', text) // ur cods
 					}, 20000) // 1000 = 1s,
 					setTimeout( () => {
-					aguzbotwa.sendMessage(from, '_20 Detik lagi..._', text) // ur cods
+					aguzbotwa.sendMessage(from, '_20 seconds left ... _', text) // ur cods
 					}, 10000) // 1000 = 1s,
 					setTimeout( () => {
-					aguzbotwa.sendMessage(from, '_30 Detik lagi..._', text) // ur cods
+					aguzbotwa.sendMessage(from, '_30 seconds left ... _', text) // ur cods
 					}, 2500) // 1000 = 1s,
 					setTimeout( () => {
-					aguzbotwa.sendMessage(from, ngebuff, image, { caption: '_Tebak bro!!! gak bisa jawab donasi ya:v_', quoted: freply }) // ur cods
+					aguzbotwa.sendMessage(from, ngebuff, image, { caption: '_Guess bro !!! can not answer donation yes: v_', quoted: freply }) // ur cods
 					}, 0) // 1000 = 1s,
 					 
 					break
@@ -3581,7 +3581,7 @@ case `${prefix}slowmo`:
 
 					
 				////if (isBanned) return reply('Maaf kamu sudah terbenned!')
-					const trut =['Pernah suka sama siapa aja? berapa lama?','Kalau boleh atau kalau mau, di gc/luar gc siapa yang akan kamu jadikan sahabat?(boleh beda/sma jenis)','apa ketakutan terbesar kamu?','pernah suka sama orang dan merasa orang itu suka sama kamu juga?','Siapa nama mantan pacar teman mu yang pernah kamu sukai diam diam?','pernah gak nyuri uang nyokap atau bokap? Alesanya?','hal yang bikin seneng pas lu lagi sedih apa','pernah cinta bertepuk sebelah tangan? kalo pernah sama siapa? rasanya gimana brou?','pernah jadi selingkuhan orang?','hal yang paling ditakutin','siapa orang yang paling berpengaruh kepada kehidupanmu','hal membanggakan apa yang kamu dapatkan di tahun ini','siapa orang yang bisa membuatmu sange','siapa orang yang pernah buatmu sange','(bgi yg muslim) pernah ga solat seharian?','Siapa yang paling mendekati tipe pasangan idealmu di sini','suka mabar(main bareng)sama siapa?','pernah nolak orang? alasannya kenapa?','Sebutkan kejadian yang bikin kamu sakit hati yang masih di inget','pencapaian yang udah didapet apa aja ditahun ini?','kebiasaan terburuk lo pas di sekolah apa?']
+					const trut =['Have you ever liked anyone? how long? ',' If possible or if you want, in gc / outside gc who will you make friends with? (can you be different / same sex) ',' what is your biggest fear? ',' have you ever liked someone and felt that person like you too? ',' Whats the name of your ex-boyfriend friend that you once liked secretly? ',' Have you ever stolen your mothers money or father? The reason? ',' What makes you happy when you are sad ',' have you ever been unrequited love? if ever with who? how do you feel brou? ',' have you ever been cheated on by people? ',' the most feared thing ',' who is the most influential person in your life ',' what proud things did you get this year ',' who is the person who can make you horny ',' who is the person who ever made you horny ',' (bgi who is a Muslim) never prayed all day long? ',' Who is the closest to your ideal type of partner here ',' who likes to play with? reject people? the reason why? ',' Mention the incident that made you hurt that you still remember ',' what have you got this year? ',' What was your worst habit at school?']
 					const ttrth = trut[Math.floor(Math.random() * trut.length)]
 					truteh = await getBuffer('https://i.ibb.co/305yt26/bf84f20635dedd5dde31e7e5b6983ae9.jpg')
 					hexa.sendMessage(from, truteh, image, { caption: '*Truth*\n\n'+ ttrth, quoted: freply })
@@ -3595,7 +3595,7 @@ case `${prefix}slowmo`:
 				
 					
 				////if (isBanned) return reply('Maaf kamu sudah terbenned!')
-					const dare =['Kirim pesan ke mantan kamu dan bilang "aku masih suka sama kamu','telfon crush/pacar sekarang dan ss ke pemain','pap ke salah satu anggota grup','Bilang "KAMU CANTIK BANGET NGGAK BOHONG" ke cowo','ss recent call whatsapp','drop emot "🦄💨" setiap ngetik di gc/pc selama 1 hari','kirim voice note bilang can i call u baby?','drop kutipan lagu/quote, terus tag member yang cocok buat kutipan itu','pake foto sule sampe 3 hari','ketik pake bahasa daerah 24 jam','ganti nama menjadi "gue anak lucinta luna" selama 5 jam','chat ke kontak wa urutan sesuai %batre kamu, terus bilang ke dia "i lucky to hv you','prank chat mantan dan bilang " i love u, pgn balikan','record voice baca surah al-kautsar','bilang "i hv crush on you, mau jadi pacarku gak?" ke lawan jenis yang terakhir bgt kamu chat (serah di wa/tele), tunggu dia bales, kalo udah ss drop ke sini','sebutkan tipe pacar mu!','snap/post foto pacar/crush','teriak gajelas lalu kirim pake vn kesini','pap mukamu lalu kirim ke salah satu temanmu','kirim fotomu dengan caption, aku anak pungut','teriak pake kata kasar sambil vn trus kirim kesini','teriak " anjimm gabutt anjimmm " di depan rumah mu','ganti nama jadi " BOWO " selama 24 jam','Pura pura kerasukan, contoh : kerasukan maung, kerasukan belalang, kerasukan kulkas, dll']
+					const dare =['Send a message to your ex and say "I still like you" ','call Crush/girlfriend now and ss to the player ',' pap to one of the group members', 'Say "YOU ARE BEAUTIFUL WAS NOT FRIENDLY" to guys', 'ss recent call whatsapp', 'drop emoticon "🦄💨" every time you type on gc / pc for 1 day', 'send a voice note saying can i call u baby?', 'drop a song / quote quote, continue to tag the appropriate member make a quote ',' use a sule photo until 3 days ',' type in the local language 24 hours ',' change the name to "Im a cute child, luna" for 5 hours ',' chat to contacts wa the order according to your% battery, continue told him "i lucky to hv you ',' prank chat ex and say" i love u, pgn back ',' voice record read surah al-kautsar ',' said "i hv crush on you, do you want to be my girlfriend or not? "To the opposite sex you last chat (hand over on wa / tele), wait for him to reply, if youve dropped here ',' state your girlfriend type! ',' snap / post girlfriend / crush photos ',' shouted gajelas then send using vn here ',' pap your face then send it to one of your friends ',' ki rim of your photo with a caption, I am a adopted child ',' shouted using harsh words while vn then sent it here ',' shouted "anjimm gabutt anjimmm" in front of your house ',' change the name to "BOWO" for 24 hours ',' Pretend possessed, for example: maung possession, locust possession, refrigerator possession, etc.']
 					const der = dare[Math.floor(Math.random() * dare.length)]
 					tod = await getBuffer('https://i.ibb.co/305yt26/bf84f20635dedd5dde31e7e5b6983ae9.jpg')
 					hexa.sendMessage(from, tod, image, { quoted: freply, caption: '*Dare*\n\n'+ der })
@@ -3633,7 +3633,7 @@ if (!mek.key.fromMe) return reply('Owner bukan?')
               case `${prefix}ytmp3`:
 			//if (!isPublic) return reply(mess.only.publikG)
 		////if (!isRegistered) return reply( ind.noregis())
-if (!mek.key.fromMe) return reply('Owner bukan?')
+if (!mek.key.fromMe) return reply('Owner right?')
                     ini_link = args[0]
                     get_result = await fetchJson('http://api.lolhuman.xyz/api/ytaudio?apikey=${LolHuman}&url=${ini_link}')
                     get_result = get_result.result
@@ -3652,7 +3652,7 @@ if (!mek.key.fromMe) return reply('Owner bukan?')
                 case `${prefix}ytmp4`:
 				//if (!isPublic) return reply(mess.only.publikG)
 		////if (!isRegistered) return reply( ind.noregis())
-if (!mek.key.fromMe) return reply('Owner bukan?')
+if (!mek.key.fromMe) return reply('Owner right?')
                     ini_link = args[0]
                     get_result = await fetchJson('http://api.lolhuman.xyz/api/ytvideo?apikey=${LolHuman}&url=${ini_link}')
                     get_result = get_result.result
@@ -3804,7 +3804,7 @@ case `${prefix}wanted`:
 	  hehe = await getBuffer('https://videfikri.com/api/textmaker/wanted/?urlgbr=${anu.display_url}&text1=Dicari&text2=${tels}')
 	 hexa.sendMessage(from, hehe, image, {quoted: freply})
 	} else {
-	  reply('Jangan tambah kan apapun pada command')
+	  reply('Dont add anything to the command')
 	}
 	break
 	case `${prefix}gtav`:
@@ -3824,7 +3824,7 @@ case `${prefix}wanted`:
 	  hehe = await getBuffer('https://videfikri.com/api/textmaker/gtavposter/?urlgbr=${anu.display_url}')
 	 hexa.sendMessage(from, hehe, image, {quoted: freply})
 	} else {
-	  reply('Jangan tambah kan apapun pada command')
+	  reply('Dont add anything to the command')
 	}
 	break
 case `${prefix}hedsot`:
@@ -3832,7 +3832,7 @@ case `${prefix}hedsot`:
 					if (!isGroup) return reply(ind.groupo())
 				
 					if (!isBotGroupAdmins) return reply(ind.badmin())
-					if (mek.message.extendedTextMessage === undefined || mek.message.extendedTextMessage === null) return reply('*Tag Kepala Target Yang Ingin Di Hedsot!*')
+					if (mek.message.extendedTextMessage === undefined || mek.message.extendedTextMessage === null) return reply('*Tag The Head Of The Target You Want To Hedsot!*')
 					mentioned = mek.message.extendedTextMessage.contextInfo.mentionedJid
 					if (mentioned.length > 1) {
 						teks = ''
@@ -3850,7 +3850,7 @@ case `${prefix}hedsot`:
 	case `${prefix}admin`:
               			
 					if (!isGroup) return reply(ind.groupo())
-					teks = `*DAFTAR ATASAN GROUP* _${groupMetadata.subject}_\n*TOTAL* : ${groupAdmins.length}\n\n`
+					teks = `*LIST OF GROUP TOP* _${groupMetadata.subject}_\n*TOTAL* : ${groupAdmins.length}\n\n`
 					no = 0
 					for (let admon of groupAdmins) {
 						no += 1
@@ -3873,14 +3873,14 @@ case `${prefix}hedsot`:
 					if (!isGroup) return reply(ind.groupo())
 				
 					if (!isBotGroupAdmins) return reply(ind.badmin())
-					if (args.length < 1) return reply('Yang mau di add bapakau kah? -_-')
-					if (args[0].startsWith('08')) return reply('Gunakan kode bahasa kak')
+					if (args.length < 1) return reply('Do you want to add it, sir? -_-')
+					if (args[0].startsWith('08')) return reply('Use the language code sis')
 					try {
 						num = `${args[0].replace(/ /g, '')}@s.whatsapp.net`
 						hexa.groupAdd(from, [num])
 					} catch (e) {
 						console.log('Error :', e)
-						reply('Anjim yang mau di add di private, dahlah :)')
+						reply('The baka you want to add is in private :)')
 					}
 					break
 	case `${prefix}rotate`:
@@ -3900,7 +3900,7 @@ case `${prefix}hedsot`:
 	  hehe = await getBuffer('http://zekais-api.herokuapp.com/rotate?url=${anu.display_url}')
 	 hexa.sendMessage(from, hehe, image, {quoted: freply})
 	} else {
-	  reply('Jangan tambah kan apapun pada command')
+	  reply('Dont add anything to the command')
 	}
 	break
 	case `${prefix}komunis`:
@@ -3920,7 +3920,7 @@ case `${prefix}hedsot`:
 	  hehe = await getBuffer('http://zekais-api.herokuapp.com/comunism?url=${anu.display_url}')
 	 hexa.sendMessage(from, hehe, image, {quoted: freply})
 	} else {
-	  reply('Jangan tambah kan apapun pada command')
+	  reply('Dont add anything to the command')
 	}
 	break
 	case `${prefix}deletepc`:
@@ -3940,7 +3940,7 @@ case `${prefix}hedsot`:
 	  hehe = await getBuffer('http://zekais-api.herokuapp.com/delete?url=${anu.display_url}')
 	 hexa.sendMessage(from, hehe, image, {quoted: freply})
 	} else {
-	  reply('Jangan tambah kan apapun pada command')
+	  reply('Dont add anything to the command')
 	}
 	break
 	case `${prefix}facebookpage`:
@@ -3960,7 +3960,7 @@ case `${prefix}hedsot`:
 	  hehe = await getBuffer('https://videfikri.com/api/textmaker/facebookprof/?urlgbr=${anu.display_url}&text=${tels}')
 	 hexa.sendMessage(from, hehe, image, {quoted: freply})
 	} else {
-	  reply('Jangan tambah kan apapun pada command')
+	  reply('Dont add anything to the command')
 	}
 	break
 	case `${prefix}costumwp`:
@@ -3980,7 +3980,7 @@ case `${prefix}hedsot`:
 	  hehe = await getBuffer('https://videfikri.com/api/textmaker/customwp/?urlgbr=${anu.display_url}')
 	 hexa.sendMessage(from, hehe, image, {quoted: freply})
 	} else {
-	  reply('Jangan tambah kan apapun pada command')
+	  reply('Dont add anything to the command')
 	}
 	break
 	case `${prefix}pantaimalam`:
@@ -4000,7 +4000,7 @@ case `${prefix}hedsot`:
 	  hehe = await getBuffer('https://videfikri.com/api/textmaker/nightbeach/?urlgbr=${anu.display_url}')
 	 hexa.sendMessage(from, hehe, image, {quoted: freply})
 	} else {
-	  reply('Jangan tambah kan apapun pada command')
+	  reply('Dont add anything to the command')
 	}
 	break
 	case `${prefix}pencil`:
@@ -4020,7 +4020,7 @@ case `${prefix}hedsot`:
 	  hehe = await getBuffer('https://videfikri.com/api/textmaker/pencil/?urlgbr=${anu.display_url}')
 	 hexa.sendMessage(from, hehe, image, {quoted: freply})
 	} else {
-	  reply('Jangan tambah kan apapun pada command')
+	  reply('Dont add anything to the command')
 	}
 	break
 	case `${prefix}bakar`:
@@ -4040,7 +4040,7 @@ case `${prefix}hedsot`:
 	  hehe = await getBuffer('https://videfikri.com/api/textmaker/burneffect/?urlgbr=${anu.display_url}')
 	 hexa.sendMessage(from, hehe, image, {quoted: freply})
 	} else {
-	  reply('Jangan tambah kan apapun pada command')
+	  reply('Dont add anything to the command')
 	}
 	break
 	case `${prefix}crossgun`:
@@ -4060,7 +4060,7 @@ case `${prefix}hedsot`:
 	  hehe = await getBuffer('https://videfikri.com/api/textmaker/crossgun/?urlgbr=${anu.display_url}')
 	 hexa.sendMessage(from, hehe, image, {quoted: freply})
 	} else {
-	  reply('Jangan tambah kan apapun pada command')
+	  reply('Dont add anything to the command')
 	}
 	break
 	
@@ -4090,7 +4090,7 @@ case `${prefix}hedsot`:
                     txt = args.join(" ")
                     reply(ind.wait())
                     buffer = await getBuffer(`https://videfikri.com/api/textmaker/${command}/?text=${txt}`)
-                    hexa.sendMessage(from, buffer, image, {caption: 'Nih kak.. *Jangan lupa follow ig @Aguzz*', quoted: freply})
+                    hexa.sendMessage(from, buffer, image, {caption: 'well....', quoted: freply})
                 break
                 case `${prefix}bakarnama`: 				
 				// ⚠️ Case by SELF-AGUZ
@@ -4099,11 +4099,11 @@ case `${prefix}hedsot`:
 
 				////if (isBanned) return reply('Maaf kamu sudah terbenned!')
 				
-				if (args.length < 1) return reply('Textnya Mana Cuy?\n*Contoh ${prefix}anakharamserti SELF-AGUZ*')
+				if (args.length < 1) return reply('where is the text?\n*Contoh ${prefix}anakharamserti HINATA*')
 				reply(ind.wait())
 				ct = body.slice(11)
 				dapuhy = await getBuffer(`http://zekais-api.herokuapp.com/sbburn?text=${ct}`)
-				hexa.sendMessage(from, dapuhy, image, { quoted: freply, caption: 'Nih Jangan Lupa Subscribe SELF-AGUZ' })
+				hexa.sendMessage(from, dapuhy, image, { quoted: freply, caption: 'WELL.....' })
 				break
 				case `${prefix}nulis`:
                 //❗case by SELF-AGUZBennyBot
@@ -4112,11 +4112,11 @@ case `${prefix}hedsot`:
 		////if (!isRegistered) return reply( ind.noregis())
 
                 ////if (isBanned) return reply('Maaf kamu sudah terbenned!')
-                if (args.length < 1) return reply('Teksnya mana ngab?\nContoh ${prefix}nulis SELF-AGUZ')
+                if (args.length < 1) return reply('where is the text?\nContoh ${prefix}nulis HINATA')
                 dapuhy = body.slice(7)
                 reply(ind.wait())
                 asu = await getBuffer(`http://zekais-api.herokuapp.com/bukukanan?text=${dapuhy}`)
-                hexa.sendMessage(from, asu, image, {caption: 'Nih Jan Lupa Subscribe SELF-AGUZBennyBot', quoted: freply})
+                hexa.sendMessage(from, asu, image, {caption: 'well....', quoted: freply})
                 break
 				case `${prefix}nulis2`:
                 //❗case by SELF-AGUZBennyBot
@@ -4125,11 +4125,11 @@ case `${prefix}hedsot`:
 
                
                 ////if (isBanned) return reply('Maaf kamu sudah terbenned!')
-                if (args.length < 1) return reply('Teksnya mana ngab?\nContoh ${prefix}nulis SELF-AGUZ')
+                if (args.length < 1) return reply('Wheres the text??\nContoh ${prefix}nulis HINATA')
                 dapuhy = body.slice(8)
                 reply(ind.wait())
                 asu = await getBuffer(`http://zekais-api.herokuapp.com/bukukiri?text=${dapuhy}`)
-                hexa.sendMessage(from, asu, image, {caption: 'Nih Jan Lupa Subscribe SELF-AGUZBennyBot', quoted: freply})
+                hexa.sendMessage(from, asu, image, {caption: 'well...', quoted: freply})
                 break
                 case `${prefix}nulis3`:
                 //❗case by SELF-AGUZBennyBot
@@ -4138,11 +4138,11 @@ case `${prefix}hedsot`:
 
                
                 ////if (isBanned) return reply('Maaf kamu sudah terbenned!')
-                if (args.length < 1) return reply('Teksnya mana ngab?\nContoh ${prefix}nulis SELF-AGUZ')
+                if (args.length < 1) return reply('where is the text?\nContoh ${prefix}nulis HINATA')
                 dapuhy = body.slice(8)
                 reply(ind.wait())
                 asu = await getBuffer(`http://zekais-api.herokuapp.com/foliokanan?text=${dapuhy}`)
-                hexa.sendMessage(from, asu, image, {caption: 'Nih Jan Lupa Subscribe SELF-AGUZBennyBot', quoted: freply})
+                hexa.sendMessage(from, asu, image, {caption: 'well...', quoted: freply})
                 break
                 case `${prefix}nulis4`:
                 //❗case by SELF-AGUZBennyBot
@@ -4151,11 +4151,11 @@ case `${prefix}hedsot`:
 
                
                 ////if (isBanned) return reply('Maaf kamu sudah terbenned!')
-                if (args.length < 1) return reply('Teksnya mana ngab?\nContoh ${prefix}nulis SELF-AGUZ')
+                if (args.length < 1) return reply('where is the text?\nContoh ${prefix}nulis HINATA')
                 dapuhy = body.slice(8)
                 reply(ind.wait())
                 asu = await getBuffer(`http://zekais-api.herokuapp.com/foliokiri?text=${dapuhy}`)
-                hexa.sendMessage(from, asu, image, {caption: 'Nih Jan Lupa Subscribe SELF-AGUZBennyBot', quoted: freply})
+                hexa.sendMessage(from, asu, image, {caption: 'well....', quoted: freply})
                 break
                 case `${prefix}attp`:
                 //❗case by SELF-AGUZBennyBot
@@ -4164,7 +4164,7 @@ case `${prefix}hedsot`:
 		////if (!isRegistered) return reply( ind.noregis())
 
                 ////if (isBanned) return reply('Maaf kamu sudah terbenned!')
-                if (args.length < 1) return reply('Teksnya mana ngab?\nContoh ${prefix}attp SELF-AGUZ')
+                if (args.length < 1) return reply('where is the text?\nContoh ${prefix}attp HINATA')
                 dapuhy = body.slice(6)
 				dapzz = await getBuffer(`https://api.xteam.xyz/attp?file&text=${dapuhy}`)
 				hexa.sendMessage(from, dapzz, sticker, {quoted: freply})
@@ -4174,7 +4174,7 @@ case `${prefix}hedsot`:
 			    
                
                 ////if (isBanned) return reply('Maaf kamu sudah terbenned!')
-                if (args.length < 1) return reply('Teksnya mana ngab?\nContoh ${prefix}ttp SELF-AGUZ')
+                if (args.length < 1) return reply('where is the text?\nContoh ${prefix}ttp HINATA')
                 dapuhy = body.slice(5)
 				dapzz = await getBuffer(`https://api.xteam.xyz/ttp?file&text=${dapuhy}`)
 				hexa.sendMessage(from, dapzz, sticker, {quoted: freply})
@@ -4185,7 +4185,7 @@ case `${prefix}hedsot`:
 
 
 ////if (isBanned) return reply('Maaf kamu sudah terbenned!')
-if (args.length < 1) return reply('_Teksnya Mana Boss_\n*Contoh ${prefix}logogaming Aguz*')
+if (args.length < 1) return reply('_The Text of Mana Boss_\n*Type ${prefix}logogaming Aguz*')
 game = await getBuffer(`http://docs-jojo.herokuapp.com/api/gaming?text=${body.slice(12)}`)
 hexa.sendMessage(from, game, image, {quoted: freply})
 break
@@ -4197,11 +4197,11 @@ break
 
 				
 				////if (isBanned) return reply('Maaf kamu sudah terbenned!')
-                    if (args.length == 0) return reply('Usage: ${prefix + command} text\nExample: ${prefix + command} AGUZ')
+                    if (args.length == 0) return reply('Usage: ${prefix + command} text\nExample: ${prefix + command} HINATA')
                     txt = args.join(" ")
                     reply(ind.wait())
                     buffer = await getBuffer('https://api.zeks.xyz/api/${command}?text=${txt}&apikey=${ZeksApi}')
-                    hexa.sendMessage(from, buffer, image, {caption: 'Nih kak.. *Jangan lupa follow ig @aguz*', quoted: freply})
+                    hexa.sendMessage(from, buffer, image, {caption: 'well.....', quoted: freply})
                     break
          
                case `${prefix}qrencode`:
@@ -4212,11 +4212,11 @@ break
 				
 				
 				////if (isBanned) return reply('Maaf kamu sudah terbenned!')
-                    if (args.length == 0) return reply('Usage: ${prefix + command} text\nExample: ${prefix + command} AGUZ')
+                    if (args.length == 0) return reply('Usage: ${prefix + command} text\nExample: ${prefix + command} HINATA')
                     txt = args.join(" ")
                     reply(ind.wait())
                     buffer = await getBuffer('https://api.zeks.xyz/api/${command}?apikey=${ZeksApi}&text=${txt}')
-                    hexa.sendMessage(from, buffer, image, {caption: 'Nih kak.. *Jangan lupa follow ig @aguzz*', quoted: freply})
+                    hexa.sendMessage(from, buffer, image, {caption: 'well.....', quoted: freply})
                 break
                 case `${prefix}googlesearch`:
 			    //if (!isPublic) return reply(mess.only.publikG)
@@ -4225,7 +4225,7 @@ break
 	        	
 				////if (isBanned) return reply('Maaf kamu sudah terbenned!')
 		       
-				if (args.length < 1) return reply('Textnya Mana Cuy?\n*Contoh ${prefix}googlesearch Aguz|Benny|Banget')
+				if (args.length < 1) return reply('where is the text?\n*Contoh ${prefix}googlesearch Hinata|Benny|Really')
 				reply(ind.wait())
 				ct = body.slice(14)
 				dap1 = ct.split("/")[0];
@@ -4233,7 +4233,7 @@ break
 				dap3 = ct.split("/")[2];
 				anu = await fetchJson(`https://dapuhy-apikey.herokuapp.com/api/textmaker?text=${dap1}&text2=${dap2}&text3=${dap3}&theme=google-suggestion&apikey=dappabotwa`)
 				buffer = await getBuffer(anu.result.url)
-				hexa.sendMessage(from, buffer, image, { quoted: freply, caption: 'Nih Jangan Lupa Subscribe SELF-AGUZ' })
+				hexa.sendMessage(from, buffer, image, { quoted: freply, caption: 'well....' })
 				break
 				case `${prefix}pubglogo`:
 				// ⚠️ Case by SELF-AGUZ
@@ -4242,14 +4242,14 @@ break
 				 //if (!isPublic) return reply(mess.only.publikG)
 		////if (!isRegistered) return reply( ind.noregis())
 
-				if (args.length < 1) return reply('Textnya Mana Cuy?\n*Contoh ${prefix}pubglogo Aguz|Benny')
+				if (args.length < 1) return reply('where is the text?\n*Type ${prefix}pubglogo Aguz|Benny')
 				reply(ind.wait())
 				ct = body.slice(9)
 				dap1 = ct.split("/")[0];
                 dap2 = ct.split("/")[1];
 				anu = await fetchJson('https://dapuhy-apikey.herokuapp.com/api/textmaker/game?text=${dap1}&text2=${dap2}&theme=pubg&apikey=dappabotwa')
 				buffer = await getBuffer(anu.result.url)
-				hexa.sendMessage(from, buffer, image, { quoted: freply, caption: 'Nih Jangan Lupa Subscribe SELF-AGUZ' })
+				hexa.sendMessage(from, buffer, image, { quoted: freply, caption: 'well....' })
 				break
 				case `${prefix}glitchtext`:
 				// ⚠️ Case by SELF-AGUZ
@@ -4258,14 +4258,14 @@ break
 
 				////if (isBanned) return reply('Maaf kamu sudah terbenned!')
 				
-				if (args.length < 1) return reply('Textnya Mana Cuy?\n*Contoh ${prefix}glitchtext Aguz|Benny')
+				if (args.length < 1) return reply('where is the text?\n*Type ${prefix}glitchtext naru|Benny')
 				reply(ind.wait())
 				ct = body.slice(11)
 				dap1 = ct.split("/")[0];
                 dap2 = ct.split("/")[1];
 				anu = await fetchJson('https://dapuhy-apikey.herokuapp.com/api/textmaker?text=${dap1}&text2=${dap2}&theme=glitch&apikey=dappabotwa')
 				dapuhy = await getBuffer(anu.result.url)
-				hexa.sendMessage(from, dapuhy, image, { quoted: freply, caption: 'Nih Jangan Lupa Subscribe SELF-AGUZ' })
+				hexa.sendMessage(from, dapuhy, image, { quoted: freply, caption: 'well....' })
 				break
 				case `${prefix}cup`:
 				// ⚠️ Case by SELF-AGUZ
@@ -4274,12 +4274,12 @@ break
 
 				////if (isBanned) return reply('Maaf kamu sudah terbenned!')
 				
-				if (args.length < 1) return reply('Textnya Mana Cuy?\n*Contoh ${prefix}cup SELF-AGUZ')
+				if (args.length < 1) return reply('where is the text?\n*type ${prefix}cup HINATA')
 				reply(ind.wait())
 				ct = body.slice(4)
 				anu = await fetchJson('https://dapuhy-apikey.herokuapp.com/api/textmaker/senja?text=${ct}&theme=coffee-cup&apikey=dappabotwa')
 				dapuhy = await getBuffer(anu.result.url)
-				hexa.sendMessage(from, dapuhy, image, { quoted: freply, caption: 'Nih Jangan Lupa Subscribe SELF-AGUZ' })
+				hexa.sendMessage(from, dapuhy, image, { quoted: freply, caption: 'well..' })
 				break
 				case `${prefix}cup2`:
 				// ⚠️ Case by SELF-AGUZ
@@ -4288,12 +4288,12 @@ break
 
 				////if (isBanned) return reply('Maaf kamu sudah terbenned!')
 				
-				if (args.length < 1) return reply('Textnya Mana Cuy?\n*Contoh ${prefix}cup2 SELF-AGUZ')
+				if (args.length < 1) return reply('where is the text?\n*Contoh ${prefix}cup2 HINATA')
 				reply(ind.wait())
 				ct = body.slice(5)
 				anu = await fetchJson('https://dapuhy-apikey.herokuapp.com/api/textmaker/senja?text=${ct}&theme=coffee-cup2&apikey=dappabotwa')
 				dapuhy = await getBuffer(anu.result.url)
-				hexa.sendMessage(from, dapuhy, image, { quoted: freply, caption: 'Nih Jangan Lupa Subscribe SELF-AGUZ' })
+				hexa.sendMessage(from, dapuhy, image, { quoted: freply, caption: 'well..' })
 				break
 				case `${prefix}battlefield`:
 				// ⚠️ Case by SELF-AGUZ
@@ -4302,14 +4302,14 @@ break
 
 				////if (isBanned) return reply('Maaf kamu sudah terbenned!')
 				
-				if (args.length < 1) return reply('Textnya Mana Cuy?\n*Contoh ${prefix}battlefield Aguz|Benny')
+				if (args.length < 1) return reply('where is the text?\n*Contoh ${prefix}battlefield HINATA|Benny')
 				reply(ind.wait())
 				ct = body.slice(12)
 				dap1 = ct.split("/")[0];
                 dap2 = ct.split("/")[1];
 				anu = await fetchJson('https://dapuhy-apikey.herokuapp.com/api/textmaker/game?text=${dap1}&text2=${dap2}&theme=battlefield&apikey=dappabotwa')
 				dapuhy = await getBuffer(anu.result.url)
-				hexa.sendMessage(from, dapuhy, image, { quoted: freply, caption: 'Nih Jangan Lupa Subscribe SELF-AGUZ' })
+				hexa.sendMessage(from, dapuhy, image, { quoted: freply, caption: 'well....' })
 				break
 				case `${prefix}hartatahta`:
 				// ⚠️ Case by SELF-AGUZ
@@ -4318,7 +4318,7 @@ break
 
 				////if (isBanned) return reply('Maaf kamu sudah terbenned!')
 				
-				if (args.length < 1) return reply('Teksnya Mana Cuy?\nContoh : ${prefix}hartatahta SELF-AGUZ')
+				if (args.length < 1) return reply('where is the text?\nContoh : ${prefix}hartatahta SELF-AGUZ')
 				dapuhy = body.slice(11)
 				reply(ind.wait())
 				asu = await getBuffer('https://api.zeks.xyz/api/hartatahta?text=${dapuhy}&apikey=${ZeksApi}')
@@ -4333,17 +4333,17 @@ break
 		////if (!isRegistered) return reply( ind.noregis())
 
 					if (!isGroup) return reply(ind.groupo())
-					if (!isAdmin) return reply('*Only Adminban & Owner Kami!*')
-					if (args.length < 1) return reply('Mengaktifkan tekan 1, Menonaktif tekan 0')
+					if (!isAdmin) return reply('*Only Admin & Owner Us!*')
+					if (args.length < 1) return reply('Activate press 1, Deactivate press 0')
 					if (Number(args[0]) === 1) {
-						if (iseventon) return reply('*Fitur event sudah aktif sebelum nya*')
+						if (iseventon) return reply('*The event feature has been active before*')
 						event.push(from)
 						fs.writeFileSync('./database/bot/event.json', JSON.stringify(event))
-						reply('❬ SUCCSESS ❭ mengaktifkan fitur event di group ini')
+						reply('❬ SUCCSESS ❭ activate the event feature in this group')
 					} else if (Number(args[0]) === 0) {
 						event.splice(from, 1)
 						fs.writeFileSync('./database/bot/event.json', JSON.stringify(event))
-						reply('❬ SUCCSESS ❭ menonaktifkan fitur event di group ini')
+						reply('❬ SUCCSESS ❭disable the event feature in this group')
 					} else {
 						reply(ind.satukos())
 					}
@@ -4352,8 +4352,8 @@ break
 					//if (!isPublic) return reply(mess.only.publikG)
 		////if (!isRegistered) return reply( ind.noregis())
 
-				   if (!mek.key.fromMe) return reply('Owner bukan?')
-					if (args.length < 1) return reply('Teksnya mana bosku >_<')
+				   if (!mek.key.fromMe) return reply('Owner right?')
+					if (args.length < 1) return reply('The text is where my boss >_<')
 						runtime = process.uptime()
 	var itsme = `${numbernye}@s.whatsapp.net`
 				var split = `${fake}`
@@ -4375,41 +4375,41 @@ break
 						
 					    buff = await hexa.downloadMediaMessage(encmedia)
 						for (let _ of anu) {
-							hexa.sendMessage(_.jid, buff, image, aguz1, {caption: `*BC GROUP*\n\n➸ *Dari Grup* : ${groupName}\n➸ *Pengirim* : wa.me/${(sender.split('@')[0])}\n➸ *Pesan* : ${body.slice(6)}\n\n *Nomer :* ${sender.replace('@s.whatsapp.net', '')}\n*Waktu :* *${moment.unix(int.timestamp).format('HH:mm:ss')} WIB*\n*Tanggal :* *${moment.unix(int.timestamp).format('DD/MM/YYYY')}*`})
+							hexa.sendMessage(_.jid, buff, image, aguz1, {caption: `*BC GROUP*\n\n➸ *From the Group* : ${groupName}\n➸ *Sender* : wa.me/${(sender.split('@')[0])}\n➸ *Message* : ${body.slice(6)}\n\n *Number :* ${sender.replace('@s.whatsapp.net', '')}\n*Time:* *${moment.unix(int.timestamp).format('HH:mm:ss')} WIB*\n*Date :* *${moment.unix(int.timestamp).format('DD/MM/YYYY')}*`})
 						}
-						reply('*SUKSES BOSKU*')
+						reply('*SUCCESS*')
 					} else {
 						for (let _ of anu) {
-							sendMess(_.jid, `*BC GROUP*\n\n➸ *Dari Grup* : ${groupName}\n➸ *Pengirim* : wa.me/${(sender.split('@')[0])}\n➸ *Pesan* : ${body.slice(6)}\n\n *Nomer :* ${sender.replace('@s.whatsapp.net', '')}\n*Waktu :* *${moment.unix(int.timestamp).format('HH:mm:ss')} WIB*\n*Tanggal :* *${moment.unix(int.timestamp).format('DD/MM/YYYY')}*`)
+							sendMess(_.jid, `*BC GROUP*\n\n➸ *From the Group* : ${groupName}\n➸ *Sender* : wa.me/${(sender.split('@')[0])}\n➸ *Message* : ${body.slice(6)}\n\n *Number :* ${sender.replace('@s.whatsapp.net', '')}\n*TIME :* *${moment.unix(int.timestamp).format('HH:mm:ss')} WIB*\n*date :* *${moment.unix(int.timestamp).format('DD/MM/YYYY')}*`)
 						}
-						reply('*SUKSES BOSKU*')
+						reply('*SUCCESS*')
 					}
 					break
 					case `${prefix}bc`: 
-					if (!mek.key.fromMe) return reply('Owner bukan?')
+					if (!mek.key.fromMe) return reply('Owner right')
 					if (args.length < 1) return reply('.......')
 					anu = await hexa.chats.all()
 					if (isMedia && !mek.message.videoMessage || isQuotedImage) {
 						const encmedia = isQuotedImage ? JSON.parse(JSON.stringify(mek).replace('quotedM','m')).message.extendedTextMessage.contextInfo : mek
 						buff = await hexa.downloadMediaMessage(encmedia)
 						for (let _ of anu) {
-							hexa.sendMessage(_.jid, buff, image, {caption: `*「 PESAN SIARAN 」*\n\n${body.slice(4)}\n\n *Nomer :* ${sender.replace('@s.whatsapp.net', '')}\n*Waktu :* *${moment.unix(int.timestamp).format('HH:mm:ss')} WIB*\n*Tanggal :* *${moment.unix(int.timestamp).format('DD/MM/YYYY')}*`})
+							hexa.sendMessage(_.jid, buff, image, {caption: `*「 BROADCAST MESSAGE 」*\n\n${body.slice(4)}\n\n *Number :* ${sender.replace('@s.whatsapp.net', '')}\n*TIME :* *${moment.unix(int.timestamp).format('HH:mm:ss')} WIB*\n*DATE :* *${moment.unix(int.timestamp).format('DD/MM/YYYY')}*`})
 						}
-						reply('*Suksess broadcast* ')
+						reply('*Success broadcast* ')
 					} else {
 						for (let _ of anu) {
-							sendMess(_.jid, `*「SELF-AGUZ」*\n\n${body.slice(4)}\n\n *Nomer :* ${sender.replace('@s.whatsapp.net', '')}\n*Waktu :* *${moment.unix(int.timestamp).format('HH:mm:ss')} WIB*\n*Tanggal :* *${moment.unix(int.timestamp).format('DD/MM/YYYY')}*`)
+							sendMess(_.jid, `*「SELF-hina」*\n\n${body.slice(4)}\n\n *Number :* ${sender.replace('@s.whatsapp.net', '')}\n*TIME :* *${moment.unix(int.timestamp).format('HH:mm:ss')} WIB*\n*DATE :* *${moment.unix(int.timestamp).format('DD/MM/YYYY')}*`)
 						}
-						reply('*Suksess broadcast* ')
+						reply('*Success broadcast* ')
 					}
 					break
 					case `${prefix}block`:
 				 hexa.updatePresence(from, Presence.composing) 
 				 hexa.chatRead (from)
 					if (!isGroup) return reply(ind.groupo())
-				if (!mek.key.fromMe) return reply('Owner bukan?')
+				if (!mek.key.fromMe) return reply('Owner right?')
 					hexa.blockUser (`${body.slice(7)}@c.us`, "add")
-					hexa.sendMessage(from, `*Perintah Diterima, Memblokir* ${body.slice(7)}@c.us`, text)
+					hexa.sendMessage(from, `*Order Received, Blocking* ${body.slice(7)}@c.us`, text)
 					break
 		            case `${prefix}unblock`:
 					//if (!isPublic) return reply(mess.only.publikG)
@@ -4418,7 +4418,7 @@ break
 					if (!isGroup) return reply(ind.groupo())
 				if (!mek.key.fromMe) return reply('Owner bukan?')
 				    hexa.blockUser (`${body.slice(9)}@c.us`, "remove")
-					hexa.sendMessage(from, `*Perintah Diterima, Membuka Blockir* ${body.slice(9)}@c.us`, text)
+					hexa.sendMessage(from, `*Order Received, unblocking* ${body.slice(9)}@c.us`, text)
 					break
 					case `${prefix}leave`:
                  // ⚠️ Case by SELF-AGUZ
@@ -4428,7 +4428,7 @@ break
 				////if (isBanned) return reply('Maaf kamu sudah terbenned!')
 				
 					if (!isGroup) return reply(ind.groupo())
-				if (!mek.key.fromMe) return reply('Owner bukan?')
+				if (!mek.key.fromMe) return reply('Owner right?')
 					setTimeout( () => {
 					hexa.groupLeave (from) 
 					}, 2000)
@@ -4470,7 +4470,7 @@ case `${prefix}fitnah`:
 					//if (!isPublic) return reply(mess.only.publikG)
 		////if (!isRegistered) return reply( ind.noregis())
 
-				if (!mek.key.fromMe) return reply('Owner bukan?')
+				if (!mek.key.fromMe) return reply('Owner right?')
 					anu = await hexa.chats.all()
 					hexa.setMaxListeners(25)
 					for (let _ of anu) {
@@ -4480,60 +4480,60 @@ case `${prefix}fitnah`:
 					break
 					case `${prefix}setprefix`:
 					if (args.length < 1) return
-				if (!mek.key.fromMe) return reply('Owner bukan?')
+				if (!mek.key.fromMe) return reply('Owner right?')
 						//if (!isPublic) return reply(mess.only.publikG)
 		////if (!isRegistered) return reply( ind.noregis())
 
 					prefix = args[0]
-					reply(`*Prefix berhasil di ubah menjadi* : ${prefix}`)
+					reply(`*The prefix has been successfully changed to* : ${prefix}`)
 					break 
 		            //
 					case `${prefix}addbadword`:  // Fix Bug By AGUZ*
 					//if (!isPublic) return reply(mess.only.publikG)
 		////if (!isRegistered) return reply( ind.noregis())
 
-                 if (!mek.key.fromMe) return reply('Owner bukan?')
+                 if (!mek.key.fromMe) return reply('Owner right?')
                   if (!isGroupAdmins) return reply(ind.admin())
-                    if (args.length < 1) return reply( `Kirim perintah ${prefix}addbadword [kata kasar]. contoh ${prefix}addbadword bego`)
+                    if (args.length < 1) return reply( `Send orders ${prefix}addbadword [harsh words]. Type ${prefix}addbadword bego`)
                     const bw = body.slice(12)
                     bad.push(bw)
                     fs.writeFileSync('./database/kelompok/bad.json', JSON.stringify(bad))
-                    reply('Success Menambahkan Bad Word!')
+                    reply('Success in Adding Bad Word!')
                     break
                     case `${prefix}delbadword`:  
 					//if (!isPublic) return reply(mess.only.publikG)
 		////if (!isRegistered) return reply( ind.noregis())
 
-                if (!mek.key.fromMe) return reply('Owner bukan?')
+                if (!mek.key.fromMe) return reply('Owner right?')
                   if (!isGroupAdmins) return reply(ind.admin())
-                    if (args.length < 1) return reply( `Kirim perintah ${prefix}addbadword [kata kasar]. contoh ${prefix}addbadword bego`)
+                    if (args.length < 1) return reply( `send orders ${prefix}addbadword [Harsh word]. Type ${prefix}addbadword bego`)
                     let dbw = body.slice(12)
                     bad.splice(dbw)
                     fs.writeFileSync('./database/kelompok/bad.json', JSON.stringify(bad))
-                    reply('Success Menghapus BAD WORD!')
+                    reply('Success Deleting BAD WORD!')
                     break 
                     case `${prefix}setppbot`:
 					//if (!isPublic) return reply(mess.only.publikG)
 		////if (!isRegistered) return reply( ind.noregis())
 
-				if (!mek.key.fromMe) return reply('Owner bukan?')
+				if (!mek.key.fromMe) return reply('Owner right?')
 					hexa.updatePresence(from, Presence.composing) 
 					//if (!isQuotedImage) return reply('Kirim gambar dengan caption ${prefix}setbotpp atau tag gambar yang sudah dikirim')
 					enmedia = JSON.parse(JSON.stringify(mek).replace('quotedM','m')).message.extendedTextMessage.contextInfo
 					media = await hexa.downloadAndSaveMediaMessage(enmedia)
 					await hexa.updateProfilePicture(botNumber, media)
-					reply('Makasih profil barunya😗')
+					reply('Thanks for the new profile😗')
 					break 
 					case `${prefix}ban`:
 					
-				if (!mek.key.fromMe) return reply('Owner bukan?')
+				if (!mek.key.fromMe) return reply('Owner right?')
 			//if (!isPublic) return reply(mess.only.publikG)
 		////if (!isRegistered) return reply( ind.noregis())
 
 				bnnd = body.slice(5)
 				ban.push(`${bnnd}@s.whatsapp.net`)
 				fs.writeFileSync('./database/pengguna/banned.json', JSON.stringify(ban))
-				reply(`Berhasil membanned nomor : wa.me/${bnnd} `)
+				reply(`Successfully banned number : wa.me/${bnnd} `)
 				break
 		        case `${prefix}unban`:
 			//if (!isPublic) return reply(mess.only.publikG)
@@ -4542,7 +4542,7 @@ case `${prefix}fitnah`:
 				bnnd = body.slice(7)
 				ban.splice(`${bnnd}@s.whatsapp.net`, 1)
 				fs.writeFileSync('./database/pengguna/banned.json', JSON.stringify(ban))
-				reply(`Nomor wa.me/${bnnd} telah di unban!`)
+				reply(`Number wa.me/${bnnd} has been in unban!`)
 				break
 					case `${prefix}unblockk`:
 					//if (!isPublic) return reply(mess.only.publikG)
@@ -4551,7 +4551,7 @@ case `${prefix}fitnah`:
                 if (!isGroup) return reply(ind.groupo())
 				if (!isAdmin) return reply('*Only Admin bot*')
 				hexa.blockUser (`${body.slice(10)}@c.us`, "remove")
-                hexa.sendMessage(from, `*Perintah Diterima, Membuka Blockir* ${body.slice(9)}@c.us`, text)
+                hexa.sendMessage(from, `*Order Received, Unblocking* ${body.slice(9)}@c.us`, text)
                 break
 		        case `${prefix}block`:
 				
@@ -4563,7 +4563,7 @@ case `${prefix}fitnah`:
                 if (!isGroup) return reply(ind.groupo())
             if (!mek.key.fromMe) return reply('Owner bukan?')
                 hexa.blockUser (`${body.slice(7)}@c.us`, "add")
-                hexa.sendMessage(from, `*Perintah Diterima, Memblokir* ${body.slice(7)}@c.us`, text)
+                hexa.sendMessage(from, `*Order Received, Blocking* ${body.slice(7)}@c.us`, text)
                 break
 //=====================================BATES NGAB=====================================\\
 //InformationMenu
@@ -4574,7 +4574,7 @@ case `${prefix}fitnah`:
 				////if (isBanned) return reply('Maaf kamu sudah terbenned!')
 				
 				anu = await fetchJson('https://yogipw-api.herokuapp.com/api/infogempa?apikey=alpinofc')
-				hasil = `➸ *Waktu* : ${anu.result.Waktu}\n*➸ Lintang :* ${anu.result.Lintang}\n*➸ Bujur :* ${anu.result.Bujur}\n*➸ Magnitudo :* ${anu.result.Magnitudo}\n*➸ Kedalaman :* ${anu.result.Kedalaman}\n*➸ Wilayah :* ${anu.result.Wilayah}`
+				hasil = `➸ *Time* : ${anu.result.Waktu}\n*➸ Latitude :* ${anu.result.Lintang}\n*➸ Longitude :* ${anu.result.Bujur}\n*➸ Magnitude :* ${anu.result.Magnitudo}\n*➸ Depth :* ${anu.result.Kedalaman}\n*➸ Territory :* ${anu.result.Wilayah}`
 				hexa.sendMessage(from, hasil, text, {quoted: freply})
 				break
 				case `${prefix}kbbi`:	
@@ -4583,9 +4583,9 @@ case `${prefix}fitnah`:
 
 				////if (isBanned) return reply('Maaf kamu sudah terbenned!')
 						
-				if (args.length < 1) return reply('Apa yang mau dicari di kbbi kak?')
+				if (args.length < 1) return reply('What do you want to look for in KBBI Sis?')
 				anu = await fetchJson('https://yogipw-api.herokuapp.com/api/kbbi?kata=${body.slice(6)}&apikey=yogipw', {method: 'get'})
-				reply('Menurut Kbbi:\n\n'+anu.result.arti)
+				reply('According to Kbbi:\n\n'+anu.result.arti)
 				break
 				case `${prefix}kodepos`: 
 				
@@ -4594,12 +4594,12 @@ case `${prefix}fitnah`:
 		////if (!isRegistered) return reply( ind.noregis())
 
 				hexa.updatePresence(from, Presence.composing) 
-				if (args.length < 1) return reply('kotanya mana bang?')
+				if (args.length < 1) return reply('where is the city, bro?')
 				reply(ind.wait())
 				asu = await fetchJson('https://yogipw-api.herokuapp.com/api/kodepos?kota=${body.slice(8)}&apikey=syahri2k21')
 				teks = '=================\n'
 				for (let i of asu.result.data) {
-					teks += `*Provinsi:* : ${i.province}\n*City* : ${i.city}\n*Kecamatan* : ${i.subdistrict}\n*Kota* : ${i.urban}\n*Kode Pos* : ${i.postalcode}\n=================\n`
+					teks += `*Province:* : ${i.province}\n*City* : ${i.city}\n*districts* : ${i.subdistrict}\n*City* : ${i.urban}\n*Postal code* : ${i.postalcode}\n=================\n`
 				}
 				reply(teks)
 				break
@@ -4614,7 +4614,7 @@ case `${prefix}fitnah`:
 				asu = await fetchJson('https://yogipw-api.herokuapp.com/api/covidindo?apikey=yogipw', {method: 'get'})
 				teks = '=================\n'
 				for (let i of asu.result) {
-					teks += `*Kode Provinsi:* : ${i.attributes.Kode_Provi}\n*Provinsi* : ${i.attributes.Provinsi}\n*Total Positif* : ${i.attributes.Kasus_Posi}\n*Total Sembuh* : ${i.attributes.Kasus_Semb}\n*Total Meninggal* : ${i.attributes.Kasus_Meni}\n=================\n`
+					teks += `*Province Code:* : ${i.attributes.Kode_Provi}\n*Province* : ${i.attributes.Provinsi}\n*Total Positive* : ${i.attributes.Kasus_Posi}\n*Total healed* : ${i.attributes.Kasus_Semb}\n*Total Died* : ${i.attributes.Kasus_Meni}\n=================\n`
 				}
 				reply(teks)
 				break
@@ -4637,7 +4637,7 @@ case `${prefix}fitnah`:
 				
 				reply(ind.wait())
 				anu = await fetchJson('https://yogipw-api.herokuapp.com/api/fakedata?country=en&apikey=${YogiPwKey}')
-				teks = `➸ *Nama* : ${anu.result.name}\n*➸ Birthday :* ${anu.result.birthday}\n*➸ Address :* ${anu.result.address}\n*➸ City :* ${anu.result.city}\n*➸ Region :* ${anu.result.region}\n*➸ Country :* ${anu.result.country}\n*➸ Zip Code :* ${anu.result.zip}\n*➸ Phone Number :* ${anu.result.phone_number}\n*➸ Username :* ${anu.result.username}\n*➸ Password :* ${anu.result.password}\n*➸ Email :* ${anu.result.email}`
+				teks = `➸ *Name* : ${anu.result.name}\n*➸ Birthday :* ${anu.result.birthday}\n*➸ Address :* ${anu.result.address}\n*➸ City :* ${anu.result.city}\n*➸ Region :* ${anu.result.region}\n*➸ Country :* ${anu.result.country}\n*➸ Zip Code :* ${anu.result.zip}\n*➸ Phone Number :* ${anu.result.phone_number}\n*➸ Username :* ${anu.result.username}\n*➸ Password :* ${anu.result.password}\n*➸ Email :* ${anu.result.email}`
 				hexa.sendMessage(from, teks, text, {quoted: freply})
 				break
 				case `${prefix}kalkulator`:
@@ -4647,11 +4647,11 @@ case `${prefix}fitnah`:
 
 				
 				////if (isBanned) return reply('Maaf kamu sudah terbenned!')
-				if (args.length < 1) return reply('[❗] Kirim perintah *${prefix}kalkulator [ Angka ]*\nContoh : ${prefix}kalkulator 12*12\n*NOTE* :\n• Untuk Perkalian Menggunakan *\n• Untuk Pertambahan Menggunakan +\n• Untuk Pengurangan Menggunakan -\n• Untuk Pembagian Menggunakan /')
+				if (args.length < 1) return reply('[❗]Send orders *${prefix}kalkulator [ Numbers ]*\nType : ${prefix}kalkulator 12*12\n*NOTE* :\n• For Multiplication Using *\n• For Addition Using +\n• For Reduction of Using -\n• For division Using /')
 				const Math_js = require('mathjs')
 				mtk = body.slice(12)
 				if (typeof Math_js.evaluate(mtk) !== "number") {
-					reply('"${mtk}", Kesalahan!\n[❗] Kirim perintah *${prefix}kalkulator [ Angka ]*\nContoh : ${prefix}kalkulator 12*12\n*NOTE* :\n• Untuk Perkalian Menggunakan *\n• Untuk Pertambahan Menggunakan +\n• Untuk Pengurangan Menggunakan -\n• Untuk Pembagian Menggunakan /')
+					reply('"${mtk}", Error!\n[❗] Send orders *${prefix}kalkulator [ Numbers ]*\nType : ${prefix}kalkulator 12*12\n*NOTE* :\n•For Multiplication Using *\n• For Addition Using +\n• For Reduction of Using -\n• For division Using /')
 				} else {
 					reply(`*「 MATH 」*\n\n*Kalkulator*\n${mtk} = ${Math_js.evaluate(mtk)}`)
 				}
@@ -4665,12 +4665,12 @@ case `${prefix}fitnah`:
 
 					
 				////if (isBanned) return reply('Maaf kamu sudah terbenned!')
-					if (args.length < 1) return reply('Masukan Nomor\nContoh : ${prefix}infonomor 0812345678')
+					if (args.length < 1) return reply('Enter the Number \ nExample : ${prefix}infonomor 0812345678')
 					data = await fetchJson('https://docs-jojo.herokuapp.com/api/infonomor?no=${body.slice(11)}')
 					if (data.error) return reply(data.error)
 					if (data.result) return reply(data.result)
-					hasil = `╠➥ internasional : ${data.international}\n╠➥ nomor : ${data.nomor}\n╠➥ operator : ${data.op}`
-					reply(hasil)
+					hasil = `╠➥ international : ${data.international}\n╠➥ number : ${data.nomor}\n╠➥ operator : ${data.op}`
+					reply(the result)
 					
 					break 
 					case `${prefix}cuaca`:
@@ -4681,7 +4681,7 @@ case `${prefix}fitnah`:
 					
 				////if (isBanned) return reply('Maaf kamu sudah terbenned!')
 					ca = await fetchJson('http://zekais-api.herokuapp.com/cuaca?daerah=${body.slice(7)}')
-					hasil = `*Cuaca🌤*\nNama : ${ca.Nama}\nLongitude : ${ca.longitude}\nLatitude : ${ca.latitude}\nSuhu : ${ca.Suhu}\nAngin : ${ca.Angin}\nKelembapan : ${ca.Kelembapan}\nCuaca : ${ca.Cuaca}\nUdara : ${ca.Udara}`
+					hasil = `*Cuaca🌤*\nName : ${ca.Nama}\nLongitude : ${ca.longitude}\nLatitude : ${ca.latitude}\nTemperature : ${ca.Suhu}\nWind : ${ca.Angin}\nMoisture : ${ca.Kelembapan}\nWeather : ${ca.Cuaca}\nAir : ${ca.Udara}`
 					hexa.sendMessage(from, ca, text, {quoted: freply })
 					
 					break
@@ -4697,7 +4697,7 @@ case `${prefix}fitnah`:
 					data = await fetchJson('https://docs-jojo.herokuapp.com/api/infohoax', {method: 'get'})
 					teks = '=================\n'
 					for (let i of data.result) {
-						teks += `*Gambar* : ${i.image}\n*Title* : ${i.title}\n*link* : ${i.link}\n*tag* : ${i.tag}\n=================\n`
+						teks += `*Picture* : ${i.image}\n*Title* : ${i.title}\n*link* : ${i.link}\n*tag* : ${i.tag}\n=================\n`
 					}
 					reply(teks.trim())
 					
@@ -4787,7 +4787,7 @@ case `${prefix}asupan`:
 				reply(ind.wait())
 				anu = await fetchJson('https://onlydevcity.herokuapp.com/api/nsfw/blowjob?apikey=${OnlyDev}')
 				buffer = await getBuffer(anu.result.url)
-				hexa.sendMessage(from, buffer, image, {quoted: freply, caption: 'Nih hasilnya kak...'})
+				hexa.sendMessage(from, buffer, image, {quoted: freply, caption: 'Here is the result horny brat ...'})
 				break
 		        case `${prefix}lewd`: 
 		//if (!isNsfw) return reply(ind.nsfwoff())
@@ -4799,7 +4799,7 @@ case `${prefix}asupan`:
 				reply(ind.wait())
 				anu = await fetchJson('https://onlydevcity.herokuapp.com/api/nsfw/lewd?apikey=${OnlyDev}')
 				buffer = await getBuffer(anu.result.url)
-				hexa.sendMessage(from, buffer, image, {quoted: freply, caption: 'Nih hasilnya kak...'})
+				hexa.sendMessage(from, buffer, image, {quoted: freply, caption: 'Here is the result horny brat ...'})
 				break
 		        case `${prefix}hentai`: 
 		//if (!isNsfw) return reply(ind.nsfwoff())
@@ -4811,7 +4811,7 @@ case `${prefix}asupan`:
 				reply(ind.wait())
 				anu = await fetchJson('https://onlydevcity.herokuapp.com/api/nsfw/hentaigif?apikey=${OnlyDev}')
 				buffer = await getBuffer(anu.result.url)
-				hexa.sendMessage(from, buffer, image, {quoted: freply, caption: 'Nih hasilnya kak...'})
+				hexa.sendMessage(from, buffer, image, {quoted: freply, caption: 'Here is the result hornybrat ...'})
 				break
 		        case `${prefix}waifu`: 
 		//if (!isNsfw) return reply(ind.nsfwoff())
@@ -4823,7 +4823,7 @@ case `${prefix}asupan`:
 				reply(ind.wait())
 				anu = await fetchJson('https://onlydevcity.herokuapp.com/api/nsfw/waifu?apikey=${OnlyDev}')
 				buffer = await getBuffer(anu.result.url)
-				hexa.sendMessage(from, buffer, image, {quoted: freply, caption: 'Nih hasilnya kak...'})
+				hexa.sendMessage(from, buffer, image, {quoted: freply, caption: 'Here is the result single brat......'})
 				break
 		        case `${prefix}eroyuri`: 
 				//if (!isPublic) return reply(mess.only.publikG)
@@ -4836,7 +4836,7 @@ case `${prefix}asupan`:
 				reply(ind.wait())
 				anu = await fetchJson('https://onlydevcity.herokuapp.com/api/nsfw/eroyuri?apikey=${OnlyDev}')
 				buffer = await getBuffer(anu.result.url)
-				hexa.sendMessage(from, buffer, image, {quoted: freply, caption: 'Nih hasilnya kak...'})
+				hexa.sendMessage(from, buffer, image, {quoted: freply, caption: 'Here is the result horny brat...'})
 				break
 			
 		        case `${prefix}hug`: 
@@ -4849,7 +4849,7 @@ case `${prefix}asupan`:
 				reply(ind.wait())
 				anu = await fetchJson('https://onlydevcity.herokuapp.com/api/nsfw/hug?apikey=${OnlyDev}')
 				buffer = await getBuffer(anu.result.url)
-				hexa.sendMessage(from, buffer, image, {quoted: freply, caption: 'Nih hasilnya kak...'})
+				hexa.sendMessage(from, buffer, image, {quoted: freply, caption: 'Here is the result, you two seems cute >_<...'})
 				break
 		        case `${prefix}hug2`: 
 		//if (!isNsfw) return reply(ind.nsfwoff())
@@ -4861,7 +4861,7 @@ case `${prefix}asupan`:
 				reply(ind.wait())
 				anu = await fetchJson('https://onlydevcity.herokuapp.com/api/sfw/hug?apikey=${OnlyDev}')
 				buffer = await getBuffer(anu.result.url)
-				hexa.sendMessage(from, buffer, image, {quoted: freply, caption: 'Nih hasilnya kak...'})
+				hexa.sendMessage(from, buffer, image, {quoted: freply, caption: 'Here is the result, you two seems cute >_<...'})
 				break
 case `${prefix}grup`:
 		        case `${prefix}group`:
@@ -4869,10 +4869,10 @@ case `${prefix}grup`:
               ////
                 if (!isBotGroupAdmins) return reply(ind.badmin())
                 if (args[0] === 'buka') {
-				reply(`*BERHASIL MEMBUKA GROUP*`)
+				reply(`*SUCCESSFUL OPENING THE GROUP*`)
                 hexa.groupSettingChange(from, GroupSettingChange.messageSend, false)
                 } else if (args[0] === 'tutup') {
-                reply(`*BERHASIL MENUTUP GROUP*`)
+                reply(`*SUCCESSFUL CLOSING THE GROUP*`)
 				hexa.groupSettingChange(from, GroupSettingChange.messageSend, true)
                 }
                 break
@@ -4881,31 +4881,31 @@ case `${prefix}setname`:
 				//
 				if (!isBotGroupAdmins) return reply(ind.badmin())
 				hexa.groupUpdateSubject(from, `${body.slice(9)}`)
-				hexa.sendMessage(from, 'Succes, Ganti Nama Grup', text, {quoted: freply})
+				hexa.sendMessage(from, 'Succes, Rename Group', text, {quoted: freply})
 				break
                 case `${prefix}setdesc`:
                 if (!isGroup) return reply(ind.groupo())
               ////
                 if (!isBotGroupAdmins) return reply(ind.badmin())
                 hexa.groupUpdateDescription(from, `${body.slice(9)}`)
-                hexa.sendMessage(from, 'Succes, Ganti Deskripsi Grup', text, {quoted: freply})
+                hexa.sendMessage(from, 'Succes, Change the Group Description', text, {quoted: freply})
                 break
                 case `${prefix}demote`:
                 if (!isGroup) return reply(ind.groupo())
               ////
                 if (!isBotGroupAdmins) return reply(ind.badmin())
-                if (mek.message.extendedTextMessage === undefined || mek.message.extendedTextMessage === null) return reply('*Tag target yang ingin di turunkan admin group!*')
+                if (mek.message.extendedTextMessage === undefined || mek.message.extendedTextMessage === null) return reply('*The target tag that the admin group wants to pass down!*')
                 mentioned = mek.message.extendedTextMessage.contextInfo.mentionedJid
                 if (mentioned.length > 1) {
                 teks = ''
                 for (let _ of mentioned) {
-                teks += `*Perintah diterima, menurunkan jadi admin group* :\n`
+                teks += `*Command accepted, demoted to group participant* :\n`
                 teks += `@_.split('@')[0]`
                 }
                 mentions(teks, mentioned, true)
                 hexa.groupDemoteAdmin(from, mentioned)
                 } else {
-                mentions(`*Perintah diterima, menurunkan* @${mentioned[0].split('@')[0]} *jadi admin group*`, mentioned, true)
+                mentions(`*Orders accepted, lowered* @${mentioned[0].split('@')[0]} *jadi admin group*`, mentioned, true)
                 hexa.groupDemoteAdmin(from, mentioned)
                 }
                 break
@@ -4913,18 +4913,18 @@ case `${prefix}setname`:
                 if (!isGroup) return reply(ind.groupo())
               ////
                 if (!isBotGroupAdmins) return reply(ind.badmin())
-                if (mek.message.extendedTextMessage === undefined || mek.message.extendedTextMessage === null) return reply('*Tag target yang ingin di jadikan admin group!*')
+                if (mek.message.extendedTextMessage === undefined || mek.message.extendedTextMessage === null) return reply('*The target tag that you want to make the group admin!*')
                 mentioned = mek.message.extendedTextMessage.contextInfo.mentionedJid
                 if (mentioned.length > 1) {
                 teks = ''
                 for (let _ of mentioned) {
-                teks += `*Selamat* 🥳 *Anda naik menjadi admin group* 🎉 :\n`
+                teks += `*Congratulations *🥳* You have become a group admin* 🎉 :\n`
                 teks += `@_.split('@')[0]`
                 }
                 mentions(teks, mentioned, true)
                 hexa.groupMakeAdmin(from, mentioned)
                 } else {
-                mentions(`*Selamat* 🥳 @${mentioned[0].split('@')[0]} *Anda naik menjadi admin group* 🎉`, mentioned, true)
+                mentions(`*Congratulations* 🥳 @${mentioned[0].split('@')[0]} *You have become a group admin* 🎉`, mentioned, true)
                 hexa.groupMakeAdmin(from, mentioned)
                 }
                 break
@@ -4985,13 +4985,13 @@ case `${prefix}spam|5`:
    case `${prefix}owner`:
                case `${prefix}creator`:
                  case `${prefix}developer`:
-            hexa.sendMessage(from, {displayname: "Aguzツ", vcard: vcard1}, MessageType.contact, { quoted: freply})
+            hexa.sendMessage(from, {displayname: "REAPER KINGSツ", vcard: vcard1}, MessageType.contact, { quoted: freply})
              
-              hexa.sendMessage(from, 'Tuh nomer owner ku 😎 jangan spam goblog atau gw block lu',MessageType.text, { quoted: freply} )
+              hexa.sendMessage(from, 'Thats my owner number 😎 dont spam the goblog or I block you',MessageType.text, { quoted: freply} )
 		break
                     case `${prefix}kangbanned`:
             
-             hexa.sendMessage(from, {displayname: "Whatsappツ", vcard: vcard2}, MessageType.contact, { quoted: freply})
+             hexa.sendMessage(from, {displayname: "SLAIN DEVILSツ", vcard: vcard2}, MessageType.contact, { quoted: freply})
            
 		break
 
@@ -5005,8 +5005,8 @@ case `${prefix}colong`:
                             method: 'POST',
                             formData: {
                                 "img": fs.createReadStream(filePath),
-                                "package": 'PUNYA AguzBotWa',
-                                "author": 'jan colong ya sayang'
+                                "package": 'HINA>_<NARU',
+                                "author": 'REAPER'
                             },
                             encoding: "binary"
                         }, function(error, response, body) {
@@ -5017,7 +5017,7 @@ case `${prefix}colong`:
                             fs.unlinkSync(file_name)
                         });
                     } else {
-                        reply(`Kirim stiker dengan caption ${prefix + command} atau tag gambar yang sudah dikirim`)
+                        reply(`Send a sticker with a caption ${prefix + command}or image tags that have already been sent`)
                     }
                     break
 				case `${prefix}drawing`:
@@ -5057,7 +5057,7 @@ break
                                         })
                                     
                                              } else {
-                                                 reply('Gunakan foto!')
+                                                 reply('Use a photo!')
                                           }
                                              break
 				case `${prefix}wasted`:
@@ -5084,7 +5084,7 @@ fs.unlinkSync(rano)
   })
 
 } else {
-  reply('Gunakan foto!')
+  reply('Use a photo!')
 }
 break
                 case `${prefix}slapimage`:
@@ -5099,7 +5099,7 @@ if ((isMedia && !freply.message.videoMessage || isQuotedImage) && args.length ==
   hehe = await getBuffer('https://api.zeks.xyz/api/slap?apikey=${ZeksApi}&img1=${anu.display_url}&img2=${anu.display_url}')
  hexa.sendMessage(from, hehe, image, {quoted:freply})
 } else {
-  reply('mana foto nya kaka>_<')
+  reply('where is the photo BAKA>_<')
 }
 break
                 case `${prefix}rip`:
@@ -5114,7 +5114,7 @@ if ((isMedia && !freply.message.videoMessage || isQuotedImage) && args.length ==
   hehe = await getBuffer('http://api.lolhuman.xyz/api/editor/skullmask?apikey=${LolHuman}&img=${tels}')
  hexa.sendMessage(from, hehe, image, {quoted:freply})
 } else {
-  reply('mana foto nya kaka>_<')
+  reply('where is the photo BAKA>_<')
 }
 break
 				case `${prefix}passed`:
@@ -5129,7 +5129,7 @@ if ((isMedia && !freply.message.videoMessage || isQuotedImage) && args.length ==
   hehe = await getBuffer('https://mhankbarbar.tech/api/mpassed?url=${anu.display_url}&apiKey=${BarBarKey}')
  hexa.sendMessage(from, hehe, image, {quoted:freply})
 } else {
-  reply('mana foto nya kaka>_<')
+  reply('where is the photo BAKA>_<')
 }
 break
 				case `${prefix}wanted`:
@@ -5144,7 +5144,7 @@ if ((isMedia && !freply.message.videoMessage || isQuotedImage) && args.length ==
   hehe = await getBuffer('https://videfikri.com/api/textmaker/wanted/?urlgbr=${anu.display_url}&text1=Dicari&text2=${tels}')
  hexa.sendMessage(from, hehe, image, {quoted:freply})
 } else {
-  reply('mana foto nya kaka>_<')
+  reply('where is the photo BAKA>_<')
 }
 break
                   case `${prefix}timer`:
@@ -5154,9 +5154,9 @@ break
 				if (args[1]=="detik") {var timer = args[0]+"000"
 				} else if (args[1]=="menit") {var timer = args[0]+"0000"
 				} else if (args[1]=="jam") {var timer = args[0]+"00000"
-				} else {return reply("*pilih:*\ndetik\nmenit\njam")}
+				} else {return reply("*select: * \ nseconds \ nminutes \ hours")}
 				setTimeout( () => {
-				reply("Waktu habis")
+				reply("Time has run out")
 				}, timer)
 				break		
 				case `${prefix}pornhub`:
@@ -5166,7 +5166,7 @@ break
 				var gh = body.slice(9)
 				var porn = gh.split("|")[0];
 				var hub = gh.split("|")[1];
-				if (args.length < 1) return reply('「❗」Contoh : ${prefix}pornhub kevin & Hub')
+				if (args.length < 1) return reply('「❗」Type : ${prefix}pornhub kevin & Hub')
 				reply(ind.wait())
 				buffer = await getBuffer('https://api.zeks.xyz/api/phlogo?text1=${porn}&text2=${hub}&apikey=${ZeksApi}')
 				hexa.sendMessage(from, buffer, image, {quoted: freply})
@@ -5181,7 +5181,7 @@ break
 				bh = body.slice(7)
 				reply(ind.wait())
 				bh = await getBuffer('https://api.zeks.xyz/api/hartatahta?text=${bh}&apikey=${ZeksApi}')
-				hexa.sendMessage(from, bh, image, {caption: 'Nih kak udah jadi..', quoted: freply})
+				hexa.sendMessage(from, bh, image, {caption: 'Here sis already so ..', quoted: freply})
 			//	await limitAdd(sender)
 				break
 
@@ -5194,7 +5194,7 @@ case `${prefix}hartatata`:
 				bh = body.slice(11)
 				reply(ind.wait())
 				bh = await getBuffer('https://mhankbarbar.tech/api/htahta?apiKey=${BarBarKey}&text=${bh}')
-				hexa.sendMessage(from, bh, image, {caption: 'Nih kak udah jadi..', quoted: freply})
+				hexa.sendMessage(from, bh, image, {caption: 'Here sis already so ..', quoted: freply})
 			//	await limitAdd(sender)
 				break
 case `${prefix}speed`:
@@ -5328,11 +5328,11 @@ case `${prefix}speed`:
 			//	if (!isUser) return reply(mess.only.userB)
 				//if (!isPublic) return reply(mess.only.publikG)
 				//if (isLimit(sender)) return reply(limitend(pushname2))
-                if(googleQuery == undefined || googleQuery == ' ') return reply('*Hasil Pencarian : ${googleQuery}* tidak ditemukan')
+                if(googleQuery == undefined || googleQuery == ' ') return reply('*Search result : ${googleQuery}* not found')
                 google({ 'query': googleQuery }).then(results => {
-                let vars = `_*Hasil Pencarian : ${googleQuery}*_\n`
+                let vars = `_*Search result : ${googleQuery}*_\n`
                 for (let i = 0; i < results.length; i++) {
-                    vars +=  `\n═════════════════\n\n*Judul* : ${results[i].title}\n\n*Deskripsi* : ${results[i].snippet}\n\n*Link* : ${results[i].link}\n\n`
+                    vars +=  `\n═════════════════\n\n*Title* : ${results[i].title}\n\n*Description* : ${results[i].snippet}\n\n*Link* : ${results[i].link}\n\n`
                 }
                     reply(vars)
                 }).catch(e => {
@@ -5346,7 +5346,7 @@ case `${prefix}kalkulator`:
 				 //  if (!isUser) return reply(mess.only.userB)
 				   //if (!isPublic) return reply(mess.only.publikG)
 				   //if (isLimit(sender)) return reply(limitend(pushname2))
-				     if (args.length < 1) return reply('[❗] Kirim perintah *${prefix}kalkulator [ Angka ]*\nContoh : ${prefix}kalkulator 12*12\n*NOTE* :\n- Untuk Perkalian Menggunakan *\n- Untuk Pertambahan Menggunakan +\n- Untuk Pengurangan Mennggunakan -\n- Untuk Pembagian Menggunakan /')
+				     if (args.length < 1) return reply('[❗] Send orders *${prefix}kalkulator [ number ]*\nType : ${prefix}kalkulator 12*12\n*NOTE* :\n- For Multiplication Using * \n- For Increasing Use + \n- For Subtraction Using - \n- For Dividing Using /')
 				    mtk = `${body.slice(12)}`
 				    anu = await fetchJson('https://api.vhtear.com/calculator?value=${mtk}&apikey=${VthearApi}', {method: 'get'})
 				    hexa.sendMessage(from, `*${anu.result.data}*`, text, {quoted: freply})
@@ -5378,8 +5378,8 @@ case `${prefix}setpp`:
                     enmedia = JSON.parse(JSON.stringify(mek).replace('quotedM','m')).message.extendedTextMessage.contextInfo
                     media = await hexa.downloadAndSaveMediaMessage(enmedia)
                     await hexa.updateProfilePicture (from, media)
-                    reply('sabar')
-                    reply(`\`\`\`✓Sukses Mengganti Profil Group\`\`\` *${groupMetadata.subject}*`)
+                    reply('patient')
+                    reply(`\`\`\`✓Successfully Changing Group Profiles\`\`\` *${groupMetadata.subject}*`)
                     break
                       case `${prefix}quotemaker`:
 			 
@@ -5389,7 +5389,7 @@ case `${prefix}setpp`:
 					quote = gh.split("/")[0];
 					wm = gh.split("/")[1];
 					bg = gh.split("/")[2];
-					const pref = `Usage: \n${prefix}quotemaker teks/watermark/theme\n\nEx :\n${prefix}quotemaker ini contoh/bicit/random`
+					const pref = `Usage: \n${prefix}quotemaker teks/watermark/theme\n\nEx :\n${prefix}quotemaker this is an example/bicit/random`
 					if (args.length < 1) return reply(pref)
 					anu = await fetchJson(`https://terhambar.com/aw/qts/?kata=${quote}&author=${wm}&tipe=${bg}`, {method: 'get'})
 					buffer = await getBuffer(anu.result)
@@ -5442,7 +5442,7 @@ case `${prefix}infoowner`:
 break
                 case `${prefix}bikingc`:
                 case `${prefix}creategroup`:
-                const saya = '62813908476353@c.us'
+                const saya = '919080896537@c.us'
                 arg = body.trim().split('|')
                 hexa.sendMessage(from, `otw mek`, MessageType.text, {quoted : freply})
                 const gcname = args[1]
@@ -5492,7 +5492,7 @@ break
 					data = await fetchJson('https://api.zeks.xyz/api/tribunews?apikey=${ZeksApi}', {method: 'get'})
 					teks = '=================\n'
 					for (let i of data.result) {
-						teks += `*Judul* : ${i.title}\n*Time* : ${i.time}\n*Link* : ${i.url}\n*Keterangan* : ${i.ket}\n=================\n`
+						teks += `*Title* : ${i.title}\n*Time* : ${i.time}\n*Link* : ${i.url}\n*Information* : ${i.ket}\n=================\n`
 					}
 					reply(teks.trim())
 					
@@ -5506,7 +5506,7 @@ break
 					data = await fetchJson('https://api.zeks.xyz/api/liputan6?apikey=${ZeksApi}', {method: 'get'})
 					teks = '=================\n'
 					for (let i of data.result) {
-						teks += `*Judul* : ${i.title}\n*Url* : ${i.url}\n*Keterangan* : ${i.ket}\n*Category* : ${i.category}\n*Time* : ${i.time}\n=================\n`
+						teks += `*Title* : ${i.title}\n*Url* : ${i.url}\n*Information* : ${i.ket}\n*Category* : ${i.category}\n*Time* : ${i.time}\n=================\n`
 					}
 					reply(teks.trim())
 					
@@ -5520,7 +5520,7 @@ break
 					data = await fetchJson('https://api.zeks.xyz/api/foxnews?apikey=${ZeksApi}', {method: 'get'})
 					teks = '=================\n'
 					for (let i of data.result) {
-						teks += `*Judul* : ${i.title}\n*Url* : ${i.url}\n*Country* : ${i.country}\n*Content* : ${i.content}\n*Time* : ${i.time}\n=================\n`
+						teks += `*Title* : ${i.title}\n*Url* : ${i.url}\n*Country* : ${i.country}\n*Content* : ${i.content}\n*Time* : ${i.time}\n=================\n`
 					}
 					reply(teks.trim())
 					
@@ -5585,7 +5585,7 @@ break
 				
 					hmm = await fetchJson('http://zekais-api.herokuapp.com/igs?username=${body.slice(9)}')
 					buffer = await getBuffer(hmm.data.profilehd)
-					hasil = `Fullname : ${hmm.data.fullname}\nPengikut : ${hmm.data.follower}\nMengikuti : ${hmm.data.following}\nPrivate : ${hmm.data.private}\nVerified : ${hmm.data.is_verified}\nbio : ${hmm.data.bio}`
+					hasil = `Fullname : ${hmm.data.fullname}\nFollowers : ${hmm.data.follower}\nFollowing : ${hmm.data.following}\nPrivate : ${hmm.data.private}\nVerified : ${hmm.data.is_verified}\nbio : ${hmm.data.bio}`
 					hexa.sendMessage(from, buffer, image, {quoted: freply, caption: hasil})
 					
 					break
@@ -5616,7 +5616,7 @@ case `${prefix}ambil`:
                             fs.unlinkSync(file_name)
                         });
                     } else {
-                        reply(`Kirim gambar dengan caption ${prefix + command} atau tag gambar yang sudah dikirim`)
+                        reply(`Send pictures with captions ${prefix + command} or image tags that have already been sent`)
                     }
                     break
 //=====================================BATES NGAB=====================================\\
@@ -5655,7 +5655,7 @@ case `${prefix}ambil`:
                   anu = await fetchJson('https://api.zeks.xyz/api/film/2?q=${pshh}&apikey=${ZeksApi}', {method: 'get'})
                   puree = '======================\n'
                   for (let plyll of anu.result){
-                  puree += `• *Judul:* ${plyll.title}\n• *Link:* ${plyll.url}\n=====================\n`
+                  puree += `• *Title:* ${plyll.title}\n• *Link:* ${plyll.url}\n=====================\n`
                   }
                   reply(puree.trim())
                   break
@@ -5666,7 +5666,7 @@ case `${prefix}ambil`:
 				film = await fetchJson(`http://zekais-api.herokuapp.com/filmapiklatest`, {method: 'get'})
 				teks = '=================\n'
 				for (let i of film.result) {
-					teks += `*Nama film* : ${i.name}\n*Quality* : ${i.quality}\n*Rating* : ${i.star}\n*Link* : ${i.url}\n=================\n`
+					teks += `*Name film* : ${i.name}\n*Quality* : ${i.quality}\n*Rating* : ${i.star}\n*Link* : ${i.url}\n=================\n`
 					}
 				reply(teks.trim())
 				
@@ -5678,7 +5678,7 @@ case `${prefix}ambil`:
 				film = await fetchJson(`http://zekais-api.herokuapp.com/filmapiklatest`, {method: 'get'})
 				teks = '=================\n'
 				for (let i of film.result) {
-					teks += `*Nama film* : ${i.name}\n*Quality* : ${i.quality}\n*Rating* : ${i.star}\n*Link* : ${i.url}\n=================\n`
+					teks += `*Name film* : ${i.name}\n*Quality* : ${i.quality}\n*Rating* : ${i.star}\n*Link* : ${i.url}\n=================\n`
 					}
 				reply(teks.trim())
 				
@@ -5706,7 +5706,7 @@ case `${prefix}ambil`:
 				anu = await fetchJson('https://yogipw-api.herokuapp.com/api/jadwalshalat?kota=${body.slice(14)}&apikey=yogipw', {method: 'get'})
 				teks = '=================\n'
 				for (let i of anu.result) {
-				teks += `Tanggal : ${i.tanggal}\n*Imsyak* : ${i.imsyak}\n*Shubuh* : ${i.shubuh}\n*Terbit* : ${i.terbit}\n*Dhuha* : ${i.dhuha}\n*Dzuhur* : ${i.dzuhur}\n*Ashar* : ${i.ashr}\n*Magrib* : ${i.magrib}\n*Isya* : ${i.isya}\n=================\n`
+				teks += `Date : ${i.tanggal}\n*Imsyak* : ${i.imsyak}\n*Fajr* : ${i.shubuh}\n*Published* : ${i.terbit}\n*Dhuha* : ${i.dhuha}\n*Dzuhur* : ${i.dzuhur}\n*Ashar* : ${i.ashr}\n*Magrib* : ${i.magrib}\n*Isya* : ${i.isya}\n=================\n`
 				}
 				reply(teks.trim())
 				break
@@ -5775,11 +5775,11 @@ case `${prefix}ambil`:
                 if (isBadWord) return reply('*Fitur BadWord sudah aktif sebelum nya*')
                 badword.push(from)
                 fs.writeFileSync('./database/kelompok/badword.json', JSON.stringify(badword))
-                reply(`Fitur Badword Enable!`)
+                reply(`Features Badword Enable!`)
               	} else if (args[0] === '0') {
                 badword.splice(from, 1)
                 fs.writeFileSync('./database/kelompok/badword.json', JSON.stringify(badword))
-                reply(`Fitur Badword Disable`)
+                reply(`Features Badword Disable`)
                 } else {
                 reply(ind.satukos())
                 }
@@ -5790,7 +5790,7 @@ case `${prefix}ambil`:
 				
 				
 				
-				if (isGroup) return  reply( 'Command ini tidak bisa digunakan di dalam grup!')
+				if (isGroup) return  reply( 'This command cannot be used in a group!')
 				anug = getRegisteredRandomId(_registered).replace('@s.whatsapp.net','')
 				await reply('Find for a partner...')
 				await reply(`wa.me/${anug}`)
@@ -5804,12 +5804,12 @@ case `${prefix}ambil`:
 
 			//	if (isBanned) return reply('Maaf kamu sudah terbenned!')
 				
-				if (args.length < 1) return reply('Textnya Mana Cuy?\n*Contoh ${prefix}cup SELF-AGUZ')
+				if (args.length < 1) return reply('WHERE IS THE TEXT?\n*Type ${prefix}cup HINATA')
 				reply(ind.wait())
 				ct = body.slice(4)
 				anu = await fetchJson('https://dapuhy-apikey.herokuapp.com/api/textmaker/senja?text=${ct}&theme=coffee-cup&apikey=dappabotwa')
 				dapuhy = await getBuffer(anu.result.url)
-				hexa.sendMessage(from, dapuhy, image, { quoted: freply, caption: 'Nih Jangan Lupa Subscribe SELF-AGUZ' })
+				hexa.sendMessage(from, dapuhy, image, { quoted: freply, caption: 'well....' })
 				break
 				case `${prefix}cup2`:
 				// ⚠️ Case by SELF-AGUZ
@@ -5818,12 +5818,12 @@ case `${prefix}ambil`:
 
 			//	if (isBanned) return reply('Maaf kamu sudah terbenned!')
 				
-				if (args.length < 1) return reply('Textnya Mana Cuy?\n*Contoh ${prefix}cup2 SELF-AGUZ')
+				if (args.length < 1) return reply('where is the text?\n*Contoh ${prefix}cup2 HINATA')
 				reply(ind.wait())
 				ct = body.slice(5)
 				anu = await fetchJson('https://dapuhy-apikey.herokuapp.com/api/textmaker/senja?text=${ct}&theme=coffee-cup2&apikey=dappabotwa')
 				dapuhy = await getBuffer(anu.result.url)
-				hexa.sendMessage(from, dapuhy, image, { quoted: freply, caption: 'Nih Jangan Lupa Subscribe SELF-AGUZ' })
+				hexa.sendMessage(from, dapuhy, image, { quoted: freply, caption: 'well....' })
 				break
 /*case `${prefix}antilink`:
               //  if (!isGroup) return reply(mess.only.group)
@@ -5846,16 +5846,16 @@ case `${prefix}ambil`:
 				}
 				break*/
 				 case `${prefix}autosticker`:
-				if (args.length < 1) return reply('Mengaktifkan tekan 1, Menonaktif tekan 0')
+				if (args.length < 1) return reply('Activate press 1, Deactivate press 0')
                 if (Number(args[0]) === 1) {
-                    if (isAutoStikerOn) return reply('Fitur auto stiker sudah diaktifkan')
+                    if (isAutoStikerOn) return reply('The auto sticker feature has been activated')
                     _autostiker.push(from)
                     fs.writeFileSync('./lib/aguzx/autostiker.json', JSON.stringify(_autostiker))
-                    reply('Fitur autosticker berhasil diaktifkan')
+                    reply('The autosticker feature has been successfully activated')
                 } else if (Number(args[0]) === 0) {
                     _autostiker.splice(from, 1)
                     fs.writeFileSync('./lib/aguzx/autostiker.json', JSON.stringify(_autostiker))
-                    reply('Fitur autostiker berhasil dinonaktifkan')
+                    reply('The autostiker feature was successfully disabled')
                 } else {
                     reply(ind.satukos())
                 }
@@ -5863,16 +5863,16 @@ case `${prefix}ambil`:
 case `${prefix}welcome`:
 				if (!isGroup) return reply(ind.groupo())
 				
-				if (args.length < 1) return reply('Mengaktifkan tekan 1, Menonaktif tekan 0')
+				if (args.length < 1) return reply('Activate press 1, Deactivate press 0')
 				if (Number(args[0]) === 1) {
-				if (isWelkom) return reply('*Fitur welcome sudah aktif sebelum nya')
+				if (isWelkom) return reply('*The welcome feature has been active before')
 				welkom.push(from)
 				fs.writeFileSync('./database/bot/welkom.json', JSON.stringify(welkom))
-				reply('❬ SUCCSESS ❭ mengaktifkan fitur welcome di group ini')
+				reply('❬ SUCCSESS ❭activate the welcome feature in this group')
 				} else if (Number(args[0]) === 0) {
 				welkom.splice(from, 1)
 				fs.writeFileSync('./database/bot/welkom.json', JSON.stringify(welkom))
-				reply('❬ SUCCSESS ❭ menonaktifkan fitur welcome di group ini')
+				reply('❬ SUCCSESS ❭ disable the welcome feature in this group')
 				} else {
 				reply(ind.satukos())
 				}
@@ -5913,17 +5913,17 @@ case `${prefix}fake`:
  case `${prefix}settarget`:
 					if (args.length < 1) return
 					targetprivate = args[0]
-					reply(`Succes Mengganti target Privte Fake Reply : ${targetprivate}`)
+					reply(`Success Change target of Privte Fake Reply : ${targetprivate}`)
 					break
 case `${prefix}mediafire`: //update by sakura
 anu = await fetchJson(`https://api.zeks.xyz/api/mediafire?apikey=${ZeksApi}&url=${args[0]}`, {method: 'get'})
 buffer = await getBuffer(anu.download)
 teks = `Nama File : ${anu.name_file}
 File Size : ${anu.file_size}
-Tanggal Upload : ${anu.upload_date}
-File Tipe : ${anu.file_type}
+Date of Upload : ${anu.upload_date}
+File Type : ${anu.file_type}
 Link Download : ${anu.download}
-Deskripsi : ${anu.description}`
+Description : ${anu.description}`
 hexa.sendMessage(from, teks, text, {quoted: freply})
 costum(buffer, MessageType.document)
 break
@@ -5932,12 +5932,12 @@ ranp = getRandom('.png')
 rano = getRandom('.webp')
 anu = await fetchJson(`https://api.zeks.xyz/api/searchsticker?apikey=${ZeksApi}&q=${body.slice(14)}`, {method: 'get'})
 buffer = await getBuffer(anu.thumb)
-teks = `Nama Sticker : ${anu.title}`
+teks = `Name Sticker : ${anu.title}`
 dung = (anu.sticker)
 hexa.sendMessage(from, buffer, image, {quoted: freply, caption: teks})
 var tes2 =  dung[Math.floor(Math.random() * dung.length)];
 exec(`wget ${tes2} -O ${ranp} && ffmpeg -i ${ranp} -vcodec libwebp -filter:v fps=fps=15 -lossless 1 -loop 0 -preset default -an -vsync 0 -s 512:512 ${rano}`, (err) => {
-	if (err) return reply('Error cok')
+	if (err) return reply('Error ok')
 						fs.unlinkSync(ranp)
 						
 						buffer2 = fs.readFileSync(rano)
@@ -5951,7 +5951,7 @@ ranp = getRandom('.png')
 rano = getRandom('.webp')
 anu = await fetchJson(`https://api.zeks.xyz/api/searchsticker?apikey=${ZeksApi}&q=${body.slice(14)}`, {method: 'get'})
 buffer = await getBuffer(anu.thumb)
-teks = `Nama Sticker : ${anu.title}`
+teks = `Name Sticker : ${anu.title}`
 dung = (anu.sticker)
 hexa.sendMessage(from, buffer, image, {quoted: freply, caption: teks})
 var tes2 =  dung[Math.floor(Math.random() * dung.length)];
@@ -5987,7 +5987,7 @@ encmedia = JSON.parse(JSON.stringify(mek).replace('quotedM','m')).message.extend
 			ran = getRandom('.png')
 			exec(`ffmpeg -i ${media} ${ran}`, (err) => {
 			fs.unlinkSync(media)
-			if (err) return reply('Yah gagal, coba ulangi ^_^')
+			if (err) return reply('Well fail, try again ^_^')
 			buffer = fs.readFileSync(ran)
 			//hexa.sendMessage(from,buffer, image, { thumbnail:fs.readFileSync('./jadi.jpeg'),quoted: freply})
 			//fs.unlinkSync(ran)
@@ -6085,7 +6085,7 @@ case `${prefix}nasa.gov`:
         default:
 			if (isGroup && budy != undefined) {
           	} else{
-            console.log(color('[AguzBot]', 'blue'), 'Any Message ? ', color(sender.split('@')[0]))
+            console.log(color('[HINATA BOT]', 'blue'), 'Any Message ? ', color(sender.split('@')[0]))
           	}
           }
     	} catch (e) {
