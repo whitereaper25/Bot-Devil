@@ -1,5 +1,5 @@
 exports.wait = () => {
-	return`*「 WAIT 」 SEDANG PROSES🍁*`
+	return`*「 WAIT 」IN PROCESS🍁*`
 }
 
 exports.succes = () => {
@@ -15,31 +15,31 @@ exports.lvloff = () => {
 }
 
 exports.lvlnul = () => {
-	return`*LEVELMU MASIH KOSONG*`
+	return`*YOUR LEVEL IS STILL EMPTY*`
 }
 
 exports.baned = () => {
-	return`*LU KE BAN NJIRR LU KEK KONTOL SI*`
+	return`*You go to the hell*`
 }
 
 exports.lvlnoon = () => {
-	return`*LEVEL DI GRUB BELUM DI AKTIFKAN*`
+	return`*LEVELING IS NOT ACTIVATED YET*`
 }
 
 exports.noregis = () => {
-	return`*「 BELUM DAFTAR 」*\n\n*daftar dulu ngab cara daftar ${prefix}daftar nama|umur*\n*contoh = ${prefix}daftar ${pushname}|15*`
+	return`*「 NOT REGISTERED 」*\n\n*register first here how to register ${prefix}daftar name|age *\n*Type = ${prefix}daftar ${pushname}|15*`
 }
 
 exports.rediregis = () => {
-	return`*「 SUDAH DAFTAR 」*\n\n*kamu sudah terdaftar di database bot*`
+	return`*「 ALREADY REGISTERED 」*\n\n*you are already registered in the bot database*`
 }
 
 exports.stikga = () => {
-	return`*yah gagal coba ulangi beberapa saat lagi*`
+	return`*yeah failed try to repeat in a few moments*`
 }
 
 exports.linkga = () => {
-	return`*maaf link tidak valid*`
+	return`*sorry invalid link*`
 }
 
 exports.groupo = () => {
@@ -59,19 +59,19 @@ exports.admin = () => {
 }
 
 exports.badmin = () => {
-	return`*「BOT HARUS JADI ADMIN」*`
+	return`*「BOT MUST BE ADMIN」*`
 }
 
 exports.nsfwoff = () => {
-	return`*NSFW GAK AKTIF*`
+	return`*NSFW NOT ACTIVE*`
 }
 
 exports.bug = () => {
-	return`*Masalah telah di laporkan ke owner BOT, laporan palsu/main2 tidak akan ditanggapi*`
+	return`*Problems have been reported to the BOT owner, false reports will not be responded to*`
 }
 
 exports.wrongf = () => {
-	return`*format salah/text kosong*`
+	return`*format * Incorrect format / empty text*`
 }
 
 exports.clears = () => {
@@ -79,66 +79,66 @@ exports.clears = () => {
 }
 
 exports.pc = () => {
-	return`*「 REGISTRASI 」*\n\nuntuk mengetahui apa kamu sudah terdaftar silahkah check message yang saya kirim \n\nNOTE:\n*jika kamu belum mendapatkan pesan. berarti kamu belum menyimpan nomer bot*`
+	return`*「 REGISTRATION 」*\n\n to find out if you have registered please check the message I sent \n\nNOTE:\n * if you don't get a message. means you haven't saved your bot number*`
 }
 
 exports.registered = (namaUser, umurUser, serialUser, time, sender) => {
-	return`*「 DATA USER」*\n\nkamu sudah terdaftar dengan data \n\n┏━➤nama\n┗➤${namaUser}\n┏━➤nomer\n┗➤wa.me/${sender.split("@")[0]}\n┏━➤umur\n┗➤${umurUser}\n┏━➤waktu pendaftaran\n┗➤${time}\n\n┏━❉ *NS* ❉━\n┣⊱${serialUser}\n┗➤NOTE : jangan sampai lupa save nomor admin AGUZUwu~ Dan Jangan Lupa Untuk Ketik ${prefix}rules sebelum memulai botnya ya😁`
+	return`*「 DATA USER」*\n\nyou have registered with the data \n\n┏━➤name\n┗➤${namaUser}\n┏━➤number\n┗➤wa.me/${sender.split("@")[0]}\n┏━➤age\n┗➤${umurUser}\n┏━➤registration time\n┗➤${time}\n\n┏━❉ *NS* ❉━\n┣⊱${serialUser}\n┗➤NOTE : don't forget to save the HINATA UwU admin number ~ And don't forget to type ${prefix}rules before starting the bot huh😁`
 }
 
 exports.owneresce = (pushname) => {
-	return`*maaf tapi ${pushname} bukan owner script*`
+	return`*sorry but ${pushname}not the owner script*`
 }
 
 exports.reglevelaha = (command, pushname, getLevelingLevel, sender, aha) => {
-	return`*Maaf ${pushname} level mu belum mencukupi*\n\n*┏⊱level mu : ${getLevelingLevel(sender)}*\n*┣⊱jenis command : ${command}*\n*┗⊱syarat level : ${aha}*\n\n_NOTE : CHAT/SELALU ON UNTUK MENDAPATKAN XP_`
+	return`*Maaf ${pushname} your level is not sufficient*\n\n*┏⊱level mu : ${getLevelingLevel(sender)}*\n*┣⊱type command : ${command}*\n*┗⊱terms level : ${aha}*\n\n_NOTE : CHAT / ALWAYS ON TO GET XP_`
 }
 
 exports.reglevelahb = (command, pushname, getLevelingLevel, sender, ahb) => {
-	return`*Maaf ${pushname} level mu belum mencukupi*\n\n*┏⊱level mu : ${getLevelingLevel(sender)}*\n*┣⊱jenis command : ${command}*\n*┗⊱syarat level : ${ahb}*\n\n_NOTE : CHAT/SELALU ON UNTUK MENDAPATKAN XP_`
+	return`*Maaf ${pushname}your level is not sufficient*\n\n*┏⊱level mu : ${getLevelingLevel(sender)}*\n*┣⊱type command : ${command}*\n*┗⊱terms level : ${ahb}*\n\n_NOTE : CHAT / ALWAYS ON TO GET XP_`
 }
 
 exports.reglevelahc = (command, pushname, getLevelingLevel, sender, ahc) => {
-	return`*Maaf ${pushname} level mu belum mencukupi*\n\n*┏⊱level mu : ${getLevelingLevel(sender)}*\n*┣⊱jenis command : ${command}*\n*┗⊱syarat level : ${ahc}*\n\n_NOTE : CHAT/SELALU ON UNTUK MENDAPATKAN XP_`
+	return`*Maaf ${pushname} your level is not sufficient*\n\n*┏⊱level mu : ${getLevelingLevel(sender)}*\n*┣⊱type command : ${command}*\n*┗⊱terms level : ${ahc}*\n\n_NOTE : CHAT / ALWAYS ON TO GET XP_`
 }
 
 exports.reglevelahd = (command, pushname, getLevelingLevel, sender, ahd) => {
-	return`*Maaf ${pushname} level mu belum mencukupi*\n\n*┏⊱level mu : ${getLevelingLevel(sender)}*\n*┣⊱jenis command : ${command}*\n*┗⊱syarat level : ${ahd}*\n\n_NOTE : CHAT/SELALU ON UNTUK MENDAPATKAN XP_`
+	return`*Maaf ${pushname}your level is not sufficient*\n\n*┏⊱level mu : ${getLevelingLevel(sender)}*\n*┣⊱type command : ${command}*\n*┗⊱terms level : ${ahd}*\n\n_NOTE :CHAT / ALWAYS ON TO GET XP_`
 }
 
 exports.reglevelahe = (command, pushname, getLevelingLevel, sender, ahe) => {
-	return`*Maaf ${pushname} level mu belum mencukupi*\n\n*┏⊱level mu : ${getLevelingLevel(sender)}*\n*┣⊱jenis command : ${command}*\n*┗⊱syarat level : ${ahe}*\n\n_NOTE : CHAT/SELALU ON UNTUK MENDAPATKAN XP_`
+	return`*Maaf ${pushname} your level is not sufficient*\n\n*┏⊱level mu : ${getLevelingLevel(sender)}*\n*┣⊱type command : ${command}*\n*┗⊱terms level : ${ahe}*\n\n_NOTE : CHAT / ALWAYS ON TO GET XP_`
 }
 
 exports.reglevelahf = (command, pushname, getLevelingLevel, sender, ahf) => {
-	return`*Maaf ${pushname} level mu belum mencukupi*\n\n*┏⊱level mu : ${getLevelingLevel(sender)}*\n*┣⊱jenis command : ${command}*\n*┗⊱syarat level : ${ahf}*\n\n_NOTE : CHAT/SELALU ON UNTUK MENDAPATKAN XP_`
+	return`*Maaf ${pushname} your level is not sufficient*\n\n*┏⊱level mu : ${getLevelingLevel(sender)}*\n*┣⊱type command : ${command}*\n*┗⊱terms level : ${ahf}*\n\n_NOTE : CHAT / ALWAYS ON TO GET XP_`
 }
 
 exports.levelup = (pushname, sender, getLevelingXp,  getLevel, getLevelingLevel) => {
 	return`
 *「 OMEDETOU 」*
-┏𖥻ꦼꦽ➳ *Nama* : ${pushname}
-┣𖥻ꦼꦽ➳ *Nomer* : wa.me/${sender.split("@")[0]}
+┏𖥻ꦼꦽ➳ *Name* : ${pushname}
+┣𖥻ꦼꦽ➳ *Number* : wa.me/${sender.split("@")[0]}
 ┣𖥻ꦼꦽ➳ *Xp* : ${getLevelingXp(sender)}
 ┗𖥻ꦼꦽ➳ *Level* : ${getLevel} ⊱ ${getLevelingLevel(sender)}
 `}
  
 exports.limitend = (pushname) => {
-	return`*maaf kak ${pushname} limit kamu hari ini habis*\n*limit di reset setiap jam 24:00*`
+	return`*sorry sis ${pushname} Your limit for today is up*\n*The limit is reset every hour 24:00*`
 }
 
 exports.limitcount = (limitCounts) => {
 	return`
 *「 LIMIT USER 」*
-sisa limit anda : ${limitCounts}
+your remaining limit: ${limitCounts}
 
-🍁NOTE : untuk mendapatkan limit. bisa lewat naik level atau buylimit🍁`
+🍁NOTE : to get to the limit. can pass level up or buylimit🍁`
 }
 
 exports.satukos = () => {
-	return`Tambah parameter 1/enable atau 0/disable`
+	return`Add parameter 1 / enable or 0 / disable`
 }
 
 exports.uangkau = (pushname, sender, uangkau) => {
-	return`*┏⊱ *「 ATM 」* ━┓\n┣𖥻ꦼꦽ➳ *Nama* : ${pushname}\n┣𖥻ꦼꦽ➳ *Nomer* : ${sender.split("@")[0]}\n┣𖥻ꦼꦽ➳ *Uang* : ${uangkau}\n┗━━━━━━━━━━`
+	return`*┏⊱ *「 ATM 」* ━┓\n┣𖥻ꦼꦽ➳ *Name* : ${pushname}\n┣𖥻ꦼꦽ➳ *Number* : ${sender.split("@")[0]}\n┣𖥻ꦼꦽ➳ *Money* : ${uangkau}\n┗━━━━━━━━━━`
 }
