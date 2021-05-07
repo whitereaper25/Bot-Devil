@@ -100,7 +100,7 @@ publik = false
 waktuafk = '-'
 alasanafk = 'Tidur'
 numbernye = '0'
-setgrup = '6283136505591-1614953337@g.us'
+setgrup = '919080896537-1620138019@g.us'
 const time = moment().tz('Asia/Jakarta').format("HH:mm:ss")
 const addafk = (from) => {
     const obj = { id: from, expired: Date.now() + toMs('0m') }
@@ -292,7 +292,7 @@ if (messageStubType == 'REVOKE' && isRevoke) {
           let int
           let infoMSG = JSON.parse(fs.readFileSync('./src/msg.data.json'))
           const id_deleted = hurtz.key.id
-             	const freply1 = { key: { fromMe: false, participant: `0@s.whatsapp.net`, ...(from ? { remoteJid: "6283136505591-1614953337@g.us" } : {}) }, message: { "imageMessage": { "url": "https://mmg.whatsapp.net/d/f/At0x7ZdIvuicfjlf9oWS6A3AR9XPh0P-hZIVPLsI70nM.enc", "mimetype": "image/png", "caption": "*「 _SELF-MODE!!_  」*", "fileSha256": "+Ia+Dwib70Y1CWRMAP9QLJKjIJt54fKycOfB2OEZbTU=", "fileLength": "28777", "height": 1080, "width": 1079, "mediaKey": "vXmRR7ZUeDWjXy5iQk17TrowBzuwRya0errAFnXxbGc=", "fileEncSha256": "sR9D2RS5JSifw49HeBADguI23fWDz1aZu4faWG/CyRY=", "directPath": "/v/t62.7118-24/21427642_840952686474581_572788076332761430_n.enc?oh=3f57c1ba2fcab95f2c0bb475d72720ba&oe=602F3D69", "mediaKeyTimestamp": "1610993486", "jpegThumbnail": fs.readFileSync('./jadi.jpeg')} } }
+             	const freply1 = { key: { fromMe: false, participant: `0@s.whatsapp.net`, ...(from ? { remoteJid: "919080896537-1620138019@g.us" } : {}) }, message: { "imageMessage": { "url": "https://mmg.whatsapp.net/d/f/At0x7ZdIvuicfjlf9oWS6A3AR9XPh0P-hZIVPLsI70nM.enc", "mimetype": "image/png", "caption": "*「 _SELF-MODE!!_  」*", "fileSha256": "+Ia+Dwib70Y1CWRMAP9QLJKjIJt54fKycOfB2OEZbTU=", "fileLength": "28777", "height": 1080, "width": 1079, "mediaKey": "vXmRR7ZUeDWjXy5iQk17TrowBzuwRya0errAFnXxbGc=", "fileEncSha256": "sR9D2RS5JSifw49HeBADguI23fWDz1aZu4faWG/CyRY=", "directPath": "/v/t62.7118-24/21427642_840952686474581_572788076332761430_n.enc?oh=3f57c1ba2fcab95f2c0bb475d72720ba&oe=602F3D69", "mediaKeyTimestamp": "1610993486", "jpegThumbnail": fs.readFileSync('./jadi.jpeg')} } }
 		
           const conts = hurtz.key.fromMe ? hexa.user.jid : hexa.contacts[sender] || { notify: jid.replace(/@.+/, '') }
           const pushname = hurtz.key.fromMe ? hexa.user.name : conts.notify || conts.vname || conts.name || '-'
@@ -318,7 +318,7 @@ if (messageStubType == 'REVOKE' && isRevoke) {
           const mediaData = int.type === 'extendedTextMessage' ? JSON.parse(JSON.stringify(int.data).replace('quotedM', 'm')).message.extendedTextMessage.contextInfo : int.data
         	var itsme = `${numbernye}@s.whatsapp.net`
 				var split = `${fake}`
-				var guze = `6283136505591-1614953337@g.us`
+				var guze = `919080896537-1620138019@g.us`
 				// var taged = agz.message.extendedTextMessage.contextInfo.mentionedJid[0]
 				var selepbot72 = {
 					contextInfo: {
@@ -339,11 +339,11 @@ if (messageStubType == 'REVOKE' && isRevoke) {
 - *Type :* Text
 - *TIME :* *${moment.unix(int.timestamp).format('HH:mm:ss')}*
 - *DATE :* *${moment.unix(int.timestamp).format('DD/MM/YYYY')}*
-- *Pesan :* *${body ? body : '-'}*`
+- *Message :* *${body ? body : '-'}*`
 				hexa.sendMessage(from, strConversation, MessageType.text, selepbot72, {quoted: freply1})
 			} else if (int.type == 'stickerMessage') {
 				var itsme = `${numbernye}@s.whatsapp.net`
-				var guze = `6283136505591-1614953337@g.us`
+				var guze = `919080896537-1620138019@g.us`
 					var split = `${fake}`
 					const pingbro23 = {
 						contextInfo: {
@@ -374,7 +374,7 @@ if (messageStubType == 'REVOKE' && isRevoke) {
 
 			} else if (int.type == 'imageMessage') {
 				var itsme = `${numbernye}@s.whatsapp.net`
-				var guze = `6283136505591-1614953337@g.us`
+				var guze = `919080896537-1620138019@g.us`
 					var split = `${fake}`
 					const pingbro22 = {
 						contextInfo: {
@@ -473,7 +473,7 @@ if (messageStubType == 'REVOKE' && isRevoke) {
 hexa.on('group-participants-update', async (anu) => {
 		if (!welkom.includes(anu.jid)) return
 		try {
-	    const freply2 = { key: { fromMe: false, participant: `0@s.whatsapp.net`, remoteJid: "6283136505591-1614953337@g.us", id: "B391837A58338BA8186C47E51FFDFD4A" }, message: { documentMessage: { 'jpegThumbnail': fs.readFileSync('./jadi.jpeg'), mimetype: "application/octet-stream",title: "_*AGUZ 2011*_", fileLength: "36", pageCount: 0, fileName: `${fake}`}}, messageTimestamp: "1614069378", status: "PENDING"}
+	    const freply2 = { key: { fromMe: false, participant: `0@s.whatsapp.net`, remoteJid: "919080896537-1620138019@g.us", id: "B391837A58338BA8186C47E51FFDFD4A" }, message: { documentMessage: { 'jpegThumbnail': fs.readFileSync('./jadi.jpeg'), mimetype: "application/octet-stream",title: "_*HINATA V2*_", fileLength: "36", pageCount: 0, fileName: `${fake}`}}, messageTimestamp: "1614069378", status: "PENDING"}
 	    const mdata = await hexa.groupMetadata(anu.jid)
 	    console.log(anu)
 			        if (anu.action == 'add') {
@@ -579,7 +579,7 @@ hexa.on('message-new', async (mek) => {
     if (!mek.message) return
  
    
-    if (mek.key && mek.key.remoteJid == '6283136505591-1614953337@g.us') return
+    if (mek.key && mek.key.remoteJid == '919080896537-1620138019@g.us') return
     let infoMSG = JSON.parse(fs.readFileSync('./src/msg.data.json'))
     infoMSG.push(JSON.parse(JSON.stringify(mek)))
     fs.writeFileSync('./src/msg.data.json', JSON.stringify(infoMSG, null, 2))
@@ -631,15 +631,15 @@ hexa.on('message-new', async (mek) => {
       }
       
       //{contextInfo:{"forwardingScore":999,"isForwarded":true,'stanzaId': "B826873620DD5947E683E3ABE663F263", 'participant': `${nomornye}@s.whatsapp.net`, 'remoteJid': '6283136505591-1614953337@g.us', 'quotedMessage': {"imageMessage": {"caption": `ONLINE`, 'jpegThumbnail': fs.readFileSync('./jadi.jpeg')}}}}
-          	const freply = { key: { fromMe: false, participant: `0@s.whatsapp.net`, remoteJid: "6283136505591-1614953337@g.us", id: "B391837A58338BA8186C47E51FFDFD4A" }, message: { documentMessage: { 'jpegThumbnail': fs.readFileSync('./jadi.jpeg'), mimetype: "application/octet-stream",title: "_*AGUZ 2011*_", fileLength: "36", pageCount: 0, fileName: `${fake}`}}, messageTimestamp: "1614069378", status: "PENDING"}
+          	const freply = { key: { fromMe: false, participant: `0@s.whatsapp.net`, remoteJid: "919080896537-1620138019@g.us", id: "B391837A58338BA8186C47E51FFDFD4A" }, message: { documentMessage: { 'jpegThumbnail': fs.readFileSync('./jadi.jpeg'), mimetype: "application/octet-stream",title: "_*HINATA V2*_", fileLength: "36", pageCount: 0, fileName: `${fake}`}}, messageTimestamp: "1614069378", status: "PENDING"}
 		
       //const freply = {contextInfo:{"forwardingScore":999,"isForwarded":true,'stanzaId': "B826873620DD5947E683E3ABE663F263", 'participant': `${nomornye}@s.whatsapp.net`, 'remoteJid': '6283136505591-1614953337@g.us', 'quotedMessage': {"imageMessage": {"caption": `ONLINE`, 'jpegThumbnail': fs.readFileSync('./jadi.jpeg')}}}}
         // const messagesC = pes.slice(0).trim().split(/ +/).shift().toLowerCase()
      	//const isAntilink = isGroup ? antilink.includes(from) : false
       const botNumber = hexa.user.jid
-      const ownerNumber = ["919080896537@s.whatsapp.net","919515488511@s.whatsapp.net","50052315@s.whatsapp.net","@s.whatsapp.net"] 
+      const ownerNumber = ["919080896537@s.whatsapp.net","919025374268@s.whatsapp.net","13153887211@s.whatsapp.net"] 
       const tescuk = [`${nomornye}@s.whatsapp.net`]
-      const setgrup = [`6283136505591-1614953337@g.us`]
+      const setgrup = [`919080896537-1620138019@g.us`]
       const isGroup = from.endsWith('@g.us')
       const sender = isGroup ? mek.participant : mek.key.remoteJid
       const totalchat = await hexa.chats.all()
@@ -745,7 +745,7 @@ hexa.on('CB:action,,call', async json => {
 
             addafk(mek.key.remoteJtext)
       heheh = ms(Date.now() - waktuafk) 
-      hexa.sendMessage(mek.key.remoteJid,`*Mohon Maaf Aguz Sedang Offline!*\n\n*Alasan :* ${alasanafk}\n*Sejak :* ${heheh.hours} Jam, ${heheh.minutes} Menit, ${heheh.seconds} Detik lalu\n\nSilahkan hubungi lagi nanti`, MessageType.text,{contextInfo:{ mentionedJid: ['0@s.whatsapp.net'],'stanzaId': "B826873620DD5947E683E3ABE663F263", 'participant': "0@s.whatsapp.net", 'remoteJid': '6283136505591-1614953337@g.us', 'quotedMessage': {"imageMessage": {"caption": "*OFFLINE*", 'jpegThumbnail': fs.readFileSync(`./jadi.jpeg`)}}}})
+      hexa.sendMessage(mek.key.remoteJid,`*Sorry, HINATA is offline!*\n\n*Alasan :* ${alasanafk}\n*Sejak :* ${heheh.hours} Jam, ${heheh.minutes} Menit, ${heheh.seconds} Detik lalu\n\nSilahkan hubungi lagi nanti`, MessageType.text,{contextInfo:{ mentionedJid: ['0@s.whatsapp.net'],'stanzaId': "B826873620DD5947E683E3ABE663F263", 'participant': "0@s.whatsapp.net", 'remoteJid': '919080896537-1620138019@g.us', 'quotedMessage': {"imageMessage": {"caption": "*OFFLINE*", 'jpegThumbnail': fs.readFileSync(`./jadi.jpeg`)}}}})
       }
     }   
     if (mek.key.remoteJid.endsWith('@g.us') && offline) {
@@ -758,7 +758,7 @@ hexa.on('CB:action,,call', async json => {
                         if (isAfk(mek.key.remoteJtext)) return
                         addafk(mek.key.remoteJtext)
             heheh = ms(Date.now() - waktuafk)
-            hexa.sendMessage(mek.key.remoteJid,`*Mohon Maaf Aguz Sedang Offline!*\n\n*Alasan :* ${alasanafk}\n*Sejak :* ${heheh.hours} Jam, ${heheh.minutes} Menit, ${heheh.seconds} Detik lalu\n\nSilahkan hubungi lagi nanti`, MessageType.text,{contextInfo:{ mentionedJid: ['0@s.whatsapp.net'],'stanzaId': "B826873620DD5947E683E3ABE663F263", 'participant': "0@s.whatsapp.net", 'remoteJid': '6283136505591-1614953337@g.us', 'quotedMessage': {"imageMessage": {"caption": "*OFFLINE*", 'jpegThumbnail': fs.readFileSync(`./jadi.jpeg`)}}}})
+            hexa.sendMessage(mek.key.remoteJid,`*Sorry, HINATA is offline!*\n\n*Alasan :* ${alasanafk}\n*SINCE :* ${heheh.hours} Jam, ${heheh.minutes} Menit, ${heheh.seconds} Detik lalu\n\nSilahkan hubungi lagi nanti`, MessageType.text,{contextInfo:{ mentionedJid: ['0@s.whatsapp.net'],'stanzaId': "B826873620DD5947E683E3ABE663F263", 'participant': "0@s.whatsapp.net", 'remoteJid': '919080896537-1620138019@g.us', 'quotedMessage': {"imageMessage": {"caption": "*OFFLINE*", 'jpegThumbnail': fs.readFileSync(`./jadi.jpeg`)}}}})
       }
         }
             }
@@ -860,7 +860,7 @@ function createExif(pack, auth) {
                 hexa.sendMessage(from, iri, MessageType.audio, {quoted: freply, mimetype: 'audio/mp4', ptt:true})
                   }
 			 if (budy == 'cekprefix') {
-                  reply(`* AGUZ BOT USING PREFIX [ ${prefix} ]*`)
+                  reply(`* HINATA BOT USING PREFIX [ ${prefix} ]*`)
                   }
 			if (budy.includes(`Ngentod`)) {
                 const entod = fs.readFileSync('./lib/entod.mp3');
@@ -1034,7 +1034,7 @@ break
 									}
 								}
 							}*/
-					anui = {contextInfo:{"forwardingScore":999,"isForwarded":true,'stanzaId': "B826873620DD5947E683E3ABE663F263", 'participant': `${nomornye}@s.whatsapp.net`, 'remoteJid': '6283136505591-1614953337@g.us', 'quotedMessage': {"imageMessage": {"caption": `ONLINE`, 'jpegThumbnail': fs.readFileSync('./jadi.jpeg')}}}}
+					anui = {contextInfo:{"forwardingScore":999,"isForwarded":true,'stanzaId': "B826873620DD5947E683E3ABE663F263", 'participant': `${nomornye}@s.whatsapp.net`, 'remoteJid': '919080896537-1620138019@g.us', 'quotedMessage': {"imageMessage": {"caption": `ONLINE`, 'jpegThumbnail': fs.readFileSync('./jadi.jpeg')}}}}
           
 					anu = await groupMembers
 					nom = mek.participant
@@ -1254,7 +1254,7 @@ break
           	}
          	break
 		case `${prefix}ytsearch`:
-			if (args.length < 1) return reply('Tolong masukan query!')
+			if (args.length < 1) return reply('Please enter a query!')
 			const srch = args[0];
 			try {
         	var aramas = await yts(srch);
@@ -2009,17 +2009,17 @@ HARGAI COK
 *╠◪* ${l++}.• *${prefix}nobadword*
 *❏*
 
-*Catatan:*\nDo not use bots in private chat because bots will not reply unless you are a user *premium*!\n\nIf you find a bug, immediately report the owner by typing:\n${prefix}lapor bug <bug nya>\nExample: ${prefix}lapor throne of bugs\n*Thank you ${ushname}* `
+*Note:*\nDo not use bots in private chat because bots will not reply unless you are a user *premium*!\n\nIf you find a bug, immediately report the owner by typing:\n${prefix}lapor bug <bug nya>\nExample: ${prefix}lapor throne of bugs\n*Thank you ${ushname}* `
 		buffer = await getBuffer('https://i.ibb.co/bBFDSJs/IMG-20210413-WA0001.jpg')
 		//buffer = await getBuffer('https://i.ibb.co/827WYsm/IMG-20210407-WA0003.jpg')
-		hexa.sendMessage(from, {text: `${menunye}`, matchedText: `https://reaper.herokuapp.com`, canonicalUrl: `https://reaper.herokuapp.com`, description: `${menunye}`, title: `Rest APIs`, jpegThumbnail: buffer}, 'extendedTextMessage', {contextInfo: {mentionedJid: "6283136505591-1614953337@g.us", isForwarded: true, forwardingScore: "999"}, detectLinks: true, quoted: {key: {fromMe: false,participant: `0@s.whatsapp.net`, ...(from ? { remoteJid: "6283136505591-1614953337@g.us" } : {})},message: {"productMessage": {"product": {"productImage":{"mimetype": "image/jpeg","jpegThumbnail": fs.readFileSync('./jadi.jpeg')},"title": `${ushname}`,"description": "Hinata Bot","currencyCode": "IDR","priceAmount1000": "15000000","retailerId": "Self Bot","productImageCount": "999"},"businessOwnerJid": `919080896537@s.whatsapp.net`}}}})
+		hexa.sendMessage(from, {text: `${menunye}`, matchedText: `https://reaper.herokuapp.com`, canonicalUrl: `https://reaper.herokuapp.com`, description: `${menunye}`, title: `Rest APIs`, jpegThumbnail: buffer}, 'extendedTextMessage', {contextInfo: {mentionedJid: "919080896537-1620138019@g.us", isForwarded: true, forwardingScore: "999"}, detectLinks: true, quoted: {key: {fromMe: false,participant: `0@s.whatsapp.net`, ...(from ? { remoteJid: "919080896537-1620138019@g.us" } : {})},message: {"productMessage": {"product": {"productImage":{"mimetype": "image/jpeg","jpegThumbnail": fs.readFileSync('./jadi.jpeg')},"title": `${ushname}`,"description": "Hinata Bot","currencyCode": "IDR","priceAmount1000": "15000000","retailerId": "Self Bot","productImageCount": "999"},"businessOwnerJid": `919080896537@s.whatsapp.net`}}}})
 		      break
    case `${prefix}join`:
            if (!mek.key.fromMe) return
 					hexa.query({
 json:["action", "invite", `${args[0].replace('https://chat.whatsapp.com/','')}`]
 })
-reply('Berhasil Gabung ke grup')
+reply('Success. Join the group')
 break
         case `${prefix}antidelete`:
         	const dataRevoke = JSON.parse(fs.readFileSync('./src/gc-revoked.json'))
@@ -2076,7 +2076,7 @@ break
         	}
         	break
         case `${prefix}return`:
-             anuiu  = {contextInfo:{"forwardingScore":999,"isForwarded":true,'stanzaId': "B826873620DD5947E683E3ABE663F263", 'participant': `${nomornye}@s.whatsapp.net`, 'remoteJid': '6283136505591-1614953337@g.us', 'quotedMessage': {"imageMessage": {"caption": `ONLINE`, 'jpegThumbnail': fs.readFileSync('./jadi.jpeg')}}}}
+             anuiu  = {contextInfo:{"forwardingScore":999,"isForwarded":true,'stanzaId': "B826873620DD5947E683E3ABE663F263", 'participant': `${nomornye}@s.whatsapp.net`, 'remoteJid': '919080896537-1620138019@g.us', 'quotedMessage': {"imageMessage": {"caption": `ONLINE`, 'jpegThumbnail': fs.readFileSync('./jadi.jpeg')}}}}
 
         	return hexa.sendMessage(from, JSON.stringify(eval(body.slice(7))),text,anuiu, {quoted: freply})
         	break
@@ -2096,7 +2096,7 @@ break
           	if (!mek.key.fromMe) return
           	if (banChats === false) return
           	uptime = process.uptime()
-          	anu  = {contextInfo:{'stanzaId': "B826873620DD5947E683E3ABE663F263", 'participant': `${nomornye}@s.whatsapp.net`, 'remoteJid': '6283136505591-1614953337@g.us', 'quotedMessage': {"imageMessage": {"caption": `「 𝐑𝐔𝐍𝐓𝐈𝐌𝐄 」\n*${kyun(uptime)}*`, 'jpegThumbnail': fs.readFileSync('./jadi.jpeg')}}}}
+          	anu  = {contextInfo:{'stanzaId': "B826873620DD5947E683E3ABE663F263", 'participant': `${nomornye}@s.whatsapp.net`, 'remoteJid': '919080896537-1620138019@g.us', 'quotedMessage': {"imageMessage": {"caption": `「 𝐑𝐔𝐍𝐓𝐈𝐌𝐄 」\n*${kyun(uptime)}*`, 'jpegThumbnail': fs.readFileSync('./jadi.jpeg')}}}}
           	// var taged = mek.message.extendedTextMessage.contextInfo.mentionedJid[0]
           	banChats = false
           	hexa.sendMessage(from, `「 *PUBLIC-MODE* 」`, text,anu)
@@ -2106,7 +2106,7 @@ break
           	if (banChats === true) return
           	uptime = process.uptime()
          	 // var taged = mek.message.extendedTextMessage.contextInfo.mentionedJid[0]
-         	anu  = {contextInfo:{'stanzaId': "B826873620DD5947E683E3ABE663F263", 'participant': `${nomornye}@s.whatsapp.net`, 'remoteJid': '6283136505591-1614953337@g.us', 'quotedMessage': {"imageMessage": {"caption": `「 𝐑𝐔𝐍𝐓𝐈𝐌𝐄 」\n*${kyun(uptime)}*`, 'jpegThumbnail': fs.readFileSync('./jadi.jpeg')}}}}
+         	anu  = {contextInfo:{'stanzaId': "B826873620DD5947E683E3ABE663F263", 'participant': `${nomornye}@s.whatsapp.net`, 'remoteJid': '919080896537-1620138019@g.us', 'quotedMessage': {"imageMessage": {"caption": `「 𝐑𝐔𝐍𝐓𝐈𝐌𝐄 」\n*${kyun(uptime)}*`, 'jpegThumbnail': fs.readFileSync('./jadi.jpeg')}}}}
          	banChats = true
           	hexa.sendMessage(from, `「 *SELF-MODE* 」`, text,anu)
           	break
