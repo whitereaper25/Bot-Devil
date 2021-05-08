@@ -1,21 +1,21 @@
 const rules = (prefix) => { 
 	return `
-*RULES BAGI PENGGUNA AGUZ BOT~*
+*RULES FOR HINATA BOT USERS~*
     
-➤ Tolong Gunakan Delay Jangan Spam Saat Menggunakan Bot, Mentang Mentang Gratis Diborong semua.
+➤ Please Use Delay Don't Spam When Using Bots, Free Potatoes Are All Bought.
 ➤ Call/VC Bot Auto Block.
-➤ Jangan Call/VC Bot Kalau Tidak aktif.
-➤ Bot tidak aktif 24 jam, jadi tergantung kalau ownernya lagi ada waktu botnya juga on.
+➤ Don't Call / VC Bot if it's not active.
+➤ The bot is not active 24 hours, so it depends if the owner is there when the bot is also on.
 
-*Konsekuensi Bila Melanggar Rules*
-Bot Akan Memblokir Kamu Atau Keluar Dari Grup Yang Kamu Kelola.
-━━━━━━━[ *PENTING!* ]━━━━━━━━
-*➤ Kami tidak pernah meminta anda untuk* berdonasi! ingin donasi chat owner
-*➤ Kami tidak menyimpan gambar, video,  audio, dan dokumen yang anda kirim*
-*➤ Kami tidak akan pernah meminta anda untukmemberikan informasi pribadi*
-*➤ Jika menemukan Bug/Error silahkan langsung lapor ke Owner bot*
-*➤  Jika kamu menelpon bot Dan di block,Owner Tidak Bertanggung Jawab*
-*➤ Apapun yang anda perintah pada bot ini , KAMI TIDAK AKAN BERTANGGUNG JAWAB*
+* Consequences When Breaking Rules *
+Bot Will Block You Or Leave The Group You Manage
+━━━━━━━[ *WARNING!* ]━━━━━━━━
+*➤ We never asked you to * donate! want to donate chat owner
+*➤ We do not store images, videos, audios, and documents that you send *
+*➤ We will never ask you to provide personal information *
+*➤ If you find a bug / error, please report it directly to the bot Owner*
+*➤  If you call a bot and get blocked, the owner is not responsible*
+*➤ Whatever you order on this bot, WE WILL NOT BE RESPONSIBLE*
 ━━━━━━━━━━━━━━━━━━━━━━━━`
 }
 exports.rules = rules
