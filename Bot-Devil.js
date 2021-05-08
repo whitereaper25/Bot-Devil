@@ -4670,7 +4670,7 @@ case `${prefix}fitnah`:
 					if (data.error) return reply(data.error)
 					if (data.result) return reply(data.result)
 					hasil = `╠➥ international : ${data.international}\n╠➥ number : ${data.nomor}\n╠➥ operator : ${data.op}`
-					reply(${hasil})
+					hexa.sendMessage(from, data, text, {quoted: freply })
 					
 					break 
 					case `${prefix}cuaca`:
