@@ -4670,7 +4670,7 @@ case `${prefix}fitnah`:
 					if (data.error) return reply(data.error)
 					if (data.result) return reply(data.result)
 					hasil = `╠➥ international : ${data.international}\n╠➥ number : ${data.nomor}\n╠➥ operator : ${data.op}`
-					reply(the result)
+					reply(${hasil})
 					
 					break 
 					case `${prefix}cuaca`:
